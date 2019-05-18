@@ -1,0 +1,2036 @@
+"","Round","Pick","Player","Name","Team","Position","College","Year"
+"1",1,1,1,"Andrew Luck","Colts","QB","Stanford",2012
+"2",1,2,2,"Robert Griffin III","Redskins","QB","Baylor",2012
+"3",1,3,3,"Trent Richardson","Browns","RB","Alabama",2012
+"4",1,4,4,"Matt Kalil","Vikings"," T","USC",2012
+"5",1,5,5,"Justin Blackmon","Jaguars","WR","Oklahoma State",2012
+"6",1,6,6,"Morris Claiborne","Cowboys","DB","Louisiana State",2012
+"7",1,7,7,"Mark Barron","Buccaneers","DB","Alabama",2012
+"8",1,8,8,"Ryan Tannehill","Dolphins","QB","Texas A&M",2012
+"9",1,9,9,"Luke Kuechly","Panthers","LB","Boston College",2012
+"10",1,10,10,"Stephon Gilmore","Bills","DB","South Carolina",2012
+"11",1,11,11,"Dontari Poe","Chiefs","DT","Memphis",2012
+"12",1,12,12,"Fletcher Cox","Eagles","DT","Mississippi State",2012
+"13",1,13,13,"Michael Floyd","Cardinals","WR","Notre Dame",2012
+"14",1,14,14,"Michael Brockers","Rams","DT","Louisiana State",2012
+"15",1,15,15,"Bruce Irvin","Seahawks","DE","West Virginia",2012
+"16",1,16,16,"Quinton Coples","Jets","DE","North Carolina",2012
+"17",1,17,17,"Dre Kirkpatrick","Bengals","DB","Alabama",2012
+"18",1,18,18,"Melvin Ingram","Chargers","DE","South Carolina",2012
+"19",1,19,19,"Shea McClellin","Bears","DE","Boise State",2012
+"20",1,20,20,"Kendall Wright","Titans","WR","Baylor",2012
+"21",1,21,21,"Chandler Jones","Patriots","DE","Syracuse",2012
+"22",1,22,22,"Brandon Weeden","Browns","QB","Oklahoma State",2012
+"23",1,23,23,"Riley Reiff","Lions"," T","Iowa",2012
+"24",1,24,24,"David DeCastro","Steelers"," G","Stanford",2012
+"25",1,25,25,"Dont'a Hightower","Patriots","LB","Alabama",2012
+"26",1,26,26,"Whitney Mercilus","Texans","DE","Illinois",2012
+"27",1,27,27,"Kevin Zeitler","Bengals"," G","Wisconsin",2012
+"28",1,28,28,"Nick Perry","Packers","DE","USC",2012
+"29",1,29,29,"Harrison Smith","Vikings","DB","Notre Dame",2012
+"30",1,30,30,"A.J. Jenkins","49ers","WR","Illinois",2012
+"31",1,31,31,"Doug Martin","Buccaneers","RB","Boise State",2012
+"32",1,32,32,"David Wilson","Giants","RB","Virginia Tech",2012
+"33",2,1,33,"Brian Quick","Rams","WR","Appalachian State",2012
+"34",2,2,34,"Coby Fleener","Colts","TE","Stanford",2012
+"35",2,3,35,"Courtney Upshaw","Ravens","LB","Alabama",2012
+"36",2,4,36,"Derek Wolfe","Broncos","DT","Cincinnati",2012
+"37",2,5,37,"Mitchell Schwartz","Browns"," T","California",2012
+"38",2,6,38,"Andre Branch","Jaguars","DE","Clemson",2012
+"39",2,7,39,"Janoris Jenkins","Rams","DB","North Alabama",2012
+"40",2,8,40,"Amini Silatolu","Panthers"," T","Midwestern State (TX)",2012
+"41",2,9,41,"Cordy Glenn","Bills"," T","Georgia",2012
+"42",2,10,42,"Jonathan Martin","Dolphins"," T","Stanford",2012
+"43",2,11,43,"Stephen Hill","Jets","WR","Georgia Tech",2012
+"44",2,12,44,"Jeff Allen","Chiefs"," T","Illinois",2012
+"45",2,13,45,"Alshon Jeffery","Bears","WR","South Carolina",2012
+"46",2,14,46,"Mychal Kendricks","Eagles","LB","California",2012
+"47",2,15,47,"Bobby Wagner","Seahawks","LB","Utah State",2012
+"48",2,16,48,"Tavon Wilson","Patriots","DB","Illinois",2012
+"49",2,17,49,"Kendall Reyes","Chargers","DT","Connecticut",2012
+"50",2,18,50,"Isaiah Pead","Rams","RB","Cincinnati",2012
+"51",2,19,51,"Jerel Worthy","Packers","DT","Michigan State",2012
+"52",2,20,52,"Zach Brown","Titans","LB","North Carolina",2012
+"53",2,21,53,"Devon Still","Bengals","DT","Penn State",2012
+"54",2,22,54,"Ryan Broyles","Lions","WR","Oklahoma",2012
+"55",2,23,55,"Peter Konz","Falcons"," C","Wisconsin",2012
+"56",2,24,56,"Mike Adams","Steelers"," T","Ohio State",2012
+"57",2,25,57,"Brock Osweiler","Broncos","QB","Arizona State",2012
+"58",2,26,58,"Lavonte David","Buccaneers","LB","Nebraska",2012
+"59",2,27,59,"Vinny Curry","Eagles","DE","Marshall",2012
+"60",2,28,60,"Kelechi Osemele","Ravens"," T","Iowa State",2012
+"61",2,29,61,"LaMichael James","49ers","RB","Oregon",2012
+"62",2,30,62,"Casey Hayward","Packers","DB","Vanderbilt",2012
+"63",2,31,63,"Rueben Randle","Giants","WR","Louisiana State",2012
+"64",3,1,64,"Dwayne Allen","Colts","TE","Clemson",2012
+"65",3,2,65,"Trumaine Johnson","Rams","DB","Montana",2012
+"66",3,3,66,"Josh Robinson","Vikings","DB","Central Florida",2012
+"67",3,4,67,"Ronnie Hillman","Broncos","RB","San Diego State",2012
+"68",3,5,68,"Devier Posey","Texans","WR","Ohio State",2012
+"69",3,6,69,"T.J. Graham","Bills","WR","North Carolina State",2012
+"70",3,7,70,"Bryan Anger","Jaguars"," P","California",2012
+"71",3,8,71,"Josh Leribeus","Redskins"," G","Southern Methodist",2012
+"72",3,9,72,"Olivier Vernon","Dolphins","DE","Miami (FL)",2012
+"73",3,10,73,"Brandon Taylor","Chargers","DB","Louisiana State",2012
+"74",3,11,74,"Donald Stephenson","Chiefs"," T","Oklahoma",2012
+"75",3,12,75,"Russell Wilson","Seahawks","QB","Wisconsin",2012
+"76",3,13,76,"Brandon Brooks","Texans"," G","Miami (OH)",2012
+"77",3,14,77,"Demario Davis","Jets","LB","Arkansas State",2012
+"78",3,15,78,"Michael Egnew","Dolphins","TE","Missouri",2012
+"79",3,16,79,"Brandon Hardin","Bears","DB","Oregon State",2012
+"80",3,17,80,"Jamell Fleming","Cardinals","DB","Oklahoma",2012
+"81",3,18,81,"Tyrone Crawford","Cowboys","DE","Boise State",2012
+"82",3,19,82,"Mike Martin","Titans","DT","Michigan",2012
+"83",3,20,83,"Mohamed Sanu","Bengals","WR","Rutgers",2012
+"84",3,21,84,"Bernard Pierce","Ravens","RB","Temple",2012
+"85",3,22,85,"Dwight Bentley","Lions","DB","Louisiana-Lafayette",2012
+"86",3,23,86,"Sean Spence","Steelers","LB","Miami (FL)",2012
+"87",3,24,87,"John Hughes","Browns","DT","Cincinnati",2012
+"88",3,25,88,"Nick Foles","Eagles","QB","Arizona",2012
+"89",3,26,89,"Akiem Hicks","Saints","DE","Regina",2012
+"90",3,27,90,"Jake Bequette","Patriots","DE","Arkansas",2012
+"91",3,28,91,"Lamar Holmes","Falcons"," T","Southern Mississippi",2012
+"92",3,29,92,"T.Y. Hilton","Colts","WR","Florida International",2012
+"93",3,30,93,"Brandon Thompson","Bengals","DT","Clemson",2012
+"94",3,31,94,"Jayron Hosley","Giants","DB","Virginia Tech",2012
+"95",3,32,95,"Tony Bergstrom","Raiders"," G","Utah",2012
+"96",4,1,96,"Chris Givens","Rams","WR","Wake Forest",2012
+"97",4,2,97,"Lamar Miller","Dolphins","RB","Miami (FL)",2012
+"98",4,3,98,"Gino Gradkowski","Ravens"," G","Delaware",2012
+"99",4,4,99,"Ben Jones","Texans"," C","Georgia",2012
+"100",4,5,100,"Travis Benjamin","Browns","WR","Miami (FL)",2012
+"101",4,6,101,"Omar Bolden","Broncos","DB","Arizona State",2012
+"102",4,7,102,"Kirk Cousins","Redskins","QB","Michigan State",2012
+"103",4,8,103,"Frank Alexander","Panthers","DE","Oklahoma",2012
+"104",4,9,104,"Joe Adams","Panthers","WR","Arkansas",2012
+"105",4,10,105,"Nigel Bradham","Bills","LB","Florida State",2012
+"106",4,11,106,"Robert Turbin","Seahawks","RB","Utah State",2012
+"107",4,12,107,"Devon Wylie","Chiefs","WR","Fresno State",2012
+"108",4,13,108,"Philip Blake","Broncos"," C","Baylor",2012
+"109",4,14,109,"Alameda Ta'amu","Steelers","DT","Washington",2012
+"110",4,15,110,"Ladarius Green","Chargers","TE","Louisiana-Lafayette",2012
+"111",4,16,111,"Evan Rodriguez","Bears","TE","Temple",2012
+"112",4,17,112,"Bobby Massie","Cardinals"," T","Mississippi",2012
+"113",4,18,113,"Kyle Wilber","Cowboys","LB","Wake Forest",2012
+"114",4,19,114,"Jaye Howard","Seahawks","DT","Florida",2012
+"115",4,20,115,"Coty Sensabaugh","Titans","DB","Clemson",2012
+"116",4,21,116,"Orson Charles","Bengals","TE","Georgia",2012
+"117",4,22,117,"Joe Looney","49ers"," G","Wake Forest",2012
+"118",4,23,118,"Jarius Wright","Vikings","WR","Arkansas",2012
+"119",4,24,119,"Keenan Robinson","Redskins","LB","Texas",2012
+"120",4,25,120,"James-Michael Johnson","Browns","LB","Nevada",2012
+"121",4,26,121,"Keshawn Martin","Texans","WR","Michigan State",2012
+"122",4,27,122,"Nick Toon","Saints","WR","Wisconsin",2012
+"123",4,28,123,"Brandon Boykin","Eagles","DB","Georgia",2012
+"124",4,29,124,"Ron Brooks","Bills","DB","Louisiana State",2012
+"125",4,30,125,"Ronnell Lewis","Lions","LB","Oklahoma",2012
+"126",4,31,126,"Jared Crick","Texans","DT","Nebraska",2012
+"127",4,32,127,"Adrien Robinson","Giants","TE","Cincinnati",2012
+"128",4,33,128,"Rhett Ellison","Vikings","RB","USC",2012
+"129",4,34,129,"Miles Burris","Raiders","LB","San Diego State",2012
+"130",4,35,130,"Christian Thompson","Ravens","DB","South Carolina State",2012
+"131",4,36,131,"Brandon Mosley","Giants"," T","Auburn",2012
+"132",4,37,132,"Mike Daniels","Packers","DT","Iowa",2012
+"133",4,38,133,"Jeron McMillian","Packers","DB","Maine",2012
+"134",4,39,134,"Greg Childs","Vikings","WR","Arkansas",2012
+"135",4,40,135,"Matt Johnson","Cowboys","DB","Eastern Washington",2012
+"136",5,1,136,"Josh Chapman","Colts","DT","Alabama",2012
+"137",5,2,137,"Malik Jackson","Broncos","DT","Tennessee",2012
+"138",5,3,138,"Tahir Whitehead","Lions","LB","Temple",2012
+"139",5,4,139,"Robert Blanton","Vikings","DB","Notre Dame",2012
+"140",5,5,140,"Najee Goode","Buccaneers","LB","West Virginia",2012
+"141",5,6,141,"Adam Gettis","Redskins"," G","Iowa",2012
+"142",5,7,142,"Brandon Marshall","Jaguars","LB","Nevada",2012
+"143",5,8,143,"Josh Norman","Panthers","DB","Coastal Carolina",2012
+"144",5,9,144,"Zebrie Sanders","Bills"," T","Florida State",2012
+"145",5,10,145,"Taylor Thompson","Titans","TE","Southern Methodist",2012
+"146",5,11,146,"DeQuan Menzie","Chiefs","DB","Alabama",2012
+"147",5,12,147,"Tank Carder","Bills","LB","Texas Christian",2012
+"148",5,13,148,"Chris Greenwood","Lions","DB","Albion",2012
+"149",5,14,149,"Johnnie Troutman","Chargers"," G","Penn State",2012
+"150",5,15,150,"Rokevious Watkins","Rams"," T","South Carolina",2012
+"151",5,16,151,"Senio Kelemete","Cardinals"," T","Washington",2012
+"152",5,17,152,"Danny Coale","Cowboys","WR","Virginia Tech",2012
+"153",5,18,153,"Dennis Kelly","Eagles"," T","Purdue",2012
+"154",5,19,154,"Korey Toomer","Seahawks","LB","Idaho",2012
+"155",5,20,155,"Josh Kaddu","Dolphins","LB","Oregon",2012
+"156",5,21,156,"Shaun Prater","Bengals","DB","Iowa",2012
+"157",5,22,157,"Bradie Ewing","Falcons","RB","Wisconsin",2012
+"158",5,23,158,"Jack Crawford","Raiders","DE","Penn State",2012
+"159",5,24,159,"Chris Rainey","Steelers","RB","Florida",2012
+"160",5,25,160,"Ryan Miller","Browns"," G","Colorado",2012
+"161",5,26,161,"Randy Bullock","Texans"," K","Texas A&M",2012
+"162",5,27,162,"Corey White","Saints","DB","Samford",2012
+"163",5,28,163,"Terrell Manning","Packers","LB","North Carolina State",2012
+"164",5,29,164,"Jonathan Massaquoi","Falcons","DE","Troy",2012
+"165",5,30,165,"Darius Fleming","49ers","LB","Notre Dame",2012
+"166",5,31,166,"Marvin Jones","Bengals","WR","California",2012
+"167",5,32,167,"George Iloka","Bengals","DB","Boise State",2012
+"168",5,33,168,"Juron Criner","Raiders","WR","Arizona",2012
+"169",5,34,169,"Asa Jackson","Ravens","DB","Cal Poly",2012
+"170",5,35,170,"Vick Ballard","Colts","RB","Mississippi State",2012
+"171",6,1,171,"Greg Zuerlein","Rams"," K","Missouri Western",2012
+"172",6,2,172,"Jeremy Lane","Seahawks","DB","Northwestern State (LA)",2012
+"173",6,3,173,"Alfred Morris","Redskins","RB","Florida Atlantic",2012
+"174",6,4,174,"Keith Tandy","Buccaneers","DB","West Virginia",2012
+"175",6,5,175,"Blair Walsh","Vikings"," K","Georgia",2012
+"176",6,6,176,"Mike Harris","Jaguars","DB","Florida State",2012
+"177",6,7,177,"Justin Bethel","Cardinals","DB","Presbyterian",2012
+"178",6,8,178,"Mark Asper","Bills"," G","Oregon",2012
+"179",6,9,179,"Andrew Tiller","Saints"," G","Syracuse",2012
+"180",6,10,180,"Trent Robinson","49ers","DB","Michigan State",2012
+"181",6,11,181,"Winston Guy","Seahawks","DB","Kentucky",2012
+"182",6,12,182,"Cyrus Gray","Chiefs","RB","Texas A&M",2012
+"183",6,13,183,"B.J. Cunningham","Dolphins","WR","Michigan State",2012
+"184",6,14,184,"Isaiah Frey","Bears","DB","Nevada",2012
+"185",6,15,185,"Ryan Lindley","Cardinals","QB","San Diego State",2012
+"186",6,16,186,"James Hanna","Cowboys","TE","Oklahoma",2012
+"187",6,17,187,"Josh Bush","Jets","DB","Wake Forest",2012
+"188",6,18,188,"Danny Trevathan","Broncos","LB","Kentucky",2012
+"189",6,19,189,"Christo Bilukidi","Raiders","DE","Georgia State",2012
+"190",6,20,190,"Markelle Martin","Titans","DB","Oklahoma State",2012
+"191",6,21,191,"Dan Herron","Bengals","RB","Ohio State",2012
+"192",6,22,192,"Charles Mitchell","Falcons","DB","Mississippi State",2012
+"193",6,23,193,"Tom Compton","Redskins"," T","South Dakota",2012
+"194",6,24,194,"Marvin McNutt","Eagles","WR","Iowa",2012
+"195",6,25,195,"Nick Mondek","Texans"," T","Purdue",2012
+"196",6,26,196,"Jonte Green","Lions","DB","New Mexico State",2012
+"197",6,27,197,"Nate Ebner","Patriots","DB","Ohio State",2012
+"198",6,28,198,"Tommy Streeter","Ravens","WR","Miami (FL)",2012
+"199",6,29,199,"Jason Slowey","49ers"," C","Western Oregon",2012
+"200",6,30,200,"Brandon Washington","Eagles"," G","Miami (FL)",2012
+"201",6,31,201,"Matt McCants","Giants"," T","Alabama-Birmingham",2012
+"202",6,32,202,"Terrance Ganaway","Jets","RB","Baylor",2012
+"203",6,33,203,"Robert T. Griffin","Jets"," G","Baylor",2012
+"204",6,34,204,"Emmanuel Acho","Browns","LB","Texas",2012
+"205",6,35,205,"Billy Winn","Browns","DT","Boise State",2012
+"206",6,36,206,"LaVon Brazill","Colts","WR","Ohio",2012
+"207",6,37,207,"Brad Nortman","Panthers"," P","Wisconsin",2012
+"208",7,1,208,"Justin Anderson","Colts"," T","Georgia",2012
+"209",7,2,209,"Aaron Brown","Rams","LB","Hawaii",2012
+"210",7,3,210,"Audie Cole","Vikings","LB","North Carolina State",2012
+"211",7,4,211,"Scott Solomon","Titans","DE","Rice",2012
+"212",7,5,212,"Michael Smith","Buccaneers","RB","Utah State",2012
+"213",7,6,213,"Richard Crawford","Redskins","DB","Southern Methodist",2012
+"214",7,7,214,"Tim Fugger","Colts","DE","Vanderbilt",2012
+"215",7,8,215,"Kheeston Randall","Dolphins","DT","Texas",2012
+"216",7,9,216,"D.J. Campbell","Panthers","DB","California",2012
+"217",7,10,217,"Jordan Bernstine","Redskins","DB","Iowa",2012
+"218",7,11,218,"Jerome Long","Chiefs","DT","San Diego State",2012
+"219",7,12,219,"Trevor Guyton","Vikings","DE","California",2012
+"220",7,13,220,"Greg McCoy","Bears","DB","Texas Christian",2012
+"221",7,14,221,"Nate Potter","Cardinals"," T","Boise State",2012
+"222",7,15,222,"Caleb McSurdy","Cowboys","LB","Montana",2012
+"223",7,16,223,"Travis Lewis","Lions","LB","Oklahoma",2012
+"224",7,17,224,"Alfonzo Dennard","Patriots","DB","Nebraska",2012
+"225",7,18,225,"J R Sweezy","Seahawks","DE","North Carolina State",2012
+"226",7,19,226,"David Molk","Chargers"," C","Michigan",2012
+"227",7,20,227,"Rishard Matthews","Dolphins","WR","Nevada",2012
+"228",7,21,228,"Jeris Pendleton","Jaguars","DT","Ashland",2012
+"229",7,22,229,"Bryce Brown","Eagles","RB","Kansas State",2012
+"230",7,23,230,"Nathan Stupar","Raiders","LB","Penn State",2012
+"231",7,24,231,"Toney Clemons","Steelers","WR","Colorado",2012
+"232",7,25,232,"Greg Scruggs","Seahawks","DE","Louisville",2012
+"233",7,26,233,"Drake Dunsmore","Buccaneers","TE","Northwestern",2012
+"234",7,27,234,"Marcel Jones","Saints"," T","Nebraska",2012
+"235",7,28,235,"Jeremy Ebert","Patriots","WR","Northwestern",2012
+"236",7,29,236,"Deangelo Tyson","Ravens","DE","Georgia",2012
+"237",7,30,237,"Cam Johnson","49ers","DE","Virginia",2012
+"238",7,31,238,"Junior Hemingway","Chiefs","WR","Michigan",2012
+"239",7,32,239,"Markus Kuhn","Giants","DT","North Carolina State",2012
+"240",7,33,240,"David Paulson","Steelers","TE","Oregon",2012
+"241",7,34,241,"Andrew Datko","Packers"," T","Florida State",2012
+"242",7,35,242,"Antonio Allen","Jets","DB","South Carolina",2012
+"243",7,36,243,"B.J. Coleman","Packers","QB","Tennessee-Chattanooga",2012
+"244",7,37,244,"Jordan White","Jets","WR","Western Michigan",2012
+"245",7,38,245,"Trevin Wade","Browns","DB","Arizona",2012
+"246",7,39,246,"Terrence Frederick","Steelers","DB","Texas A&M",2012
+"247",7,40,247,"Brad Smelley","Browns","TE","Alabama",2012
+"248",7,41,248,"Kelvin Beachum","Steelers"," T","Southern Methodist",2012
+"249",7,42,249,"Travian Robertson","Falcons","DT","South Carolina",2012
+"250",7,43,250,"Edwin Baker","Chargers","RB","Michigan State",2012
+"251",7,44,251,"John Potter","Bills"," K","Western Michigan",2012
+"252",7,45,252,"Daryl Richardson","Rams","RB","Abilene Christian",2012
+"253",7,46,253,"Chandler Harnish","Colts","QB","Northern Illinois",2012
+"254",1,1,1,"Eric Fisher","Chiefs"," T","Central Michigan",2013
+"255",1,2,2,"Luke Joeckel","Jaguars"," T","Texas A&M",2013
+"256",1,3,3,"Dion Jordan","Dolphins","DE","Oregon",2013
+"257",1,4,4,"Lane Johnson","Eagles"," T","Oklahoma",2013
+"258",1,5,5,"Ezekiel Ansah","Lions","DE","Brigham Young",2013
+"259",1,6,6,"Barkevious Mingo","Browns","DE","Louisiana State",2013
+"260",1,7,7,"Jonathan Cooper","Cardinals"," G","North Carolina",2013
+"261",1,8,8,"Tavon Austin","Rams","WR","West Virginia",2013
+"262",1,9,9,"Dee Milliner","Jets","DB","Alabama",2013
+"263",1,10,10,"Chance Warmack","Titans"," G","Alabama",2013
+"264",1,11,11,"D.J. Fluker","Chargers"," T","Alabama",2013
+"265",1,12,12,"D.J. Hayden","Raiders","DB","Houston",2013
+"266",1,13,13,"Sheldon Richardson","Jets","DT","Missouri",2013
+"267",1,14,14,"Star Lotulelei","Panthers","DT","Utah",2013
+"268",1,15,15,"Kenny Vaccaro","Saints","DB","Texas",2013
+"269",1,16,16,"EJ Manuel","Bills","QB","Florida State",2013
+"270",1,17,17,"Jarvis Jones","Steelers","LB","Georgia",2013
+"271",1,18,18,"Eric Reid","49ers","DB","Louisiana State",2013
+"272",1,19,19,"Justin Pugh","Giants"," T","Syracuse",2013
+"273",1,20,20,"Kyle Long","Bears"," G","Oregon",2013
+"274",1,21,21,"Tyler Eifert","Bengals","TE","Notre Dame",2013
+"275",1,22,22,"Desmond Trufant","Falcons","DB","Washington",2013
+"276",1,23,23,"Sharrif Floyd","Vikings","DT","Florida",2013
+"277",1,24,24,"Bjoern Werner","Colts","DE","Florida State",2013
+"278",1,25,25,"Xavier Rhodes","Vikings","DB","Florida State",2013
+"279",1,26,26,"Datone Jones","Packers","DE","UCLA",2013
+"280",1,27,27,"DeAndre Hopkins","Texans","WR","Clemson",2013
+"281",1,28,28,"Sylvester Williams","Broncos","DT","North Carolina",2013
+"282",1,29,29,"Cordarrelle Patterson","Vikings","WR","Tennessee",2013
+"283",1,30,30,"Alec Ogletree","Rams","LB","Georgia",2013
+"284",1,31,31,"Travis Frederick","Cowboys"," C","Wisconsin",2013
+"285",1,32,32,"Matt Elam","Ravens","DB","Florida",2013
+"286",2,1,33,"John Cyprien","Jaguars","DB","Florida International",2013
+"287",2,2,34,"Justin Hunter","Titans","WR","Tennessee",2013
+"288",2,3,35,"Zach Ertz","Eagles","TE","Stanford",2013
+"289",2,4,36,"Darius Slay","Lions","DB","Mississippi State",2013
+"290",2,5,37,"Giovani Bernard","Bengals","RB","North Carolina",2013
+"291",2,6,38,"Manti Te'o","Chargers","LB","Notre Dame",2013
+"292",2,7,39,"Geno Smith","Jets","QB","West Virginia",2013
+"293",2,8,40,"Cornellius Carradine","49ers","DE","Florida State",2013
+"294",2,9,41,"Robert Woods","Bills","WR","USC",2013
+"295",2,10,42,"Menelik Watson","Raiders"," T","Florida State",2013
+"296",2,11,43,"Johnthan Banks","Buccaneers","DB","Mississippi State",2013
+"297",2,12,44,"Kawann Short","Panthers","DT","Purdue",2013
+"298",2,13,45,"Kevin Minter","Cardinals","LB","Louisiana State",2013
+"299",2,14,46,"Kiko Alonso","Bills","LB","Oregon",2013
+"300",2,15,47,"Gavin Escobar","Cowboys","TE","San Diego State",2013
+"301",2,16,48,"Le'Veon Bell","Steelers","RB","Michigan State",2013
+"302",2,17,49,"Johnathan Hankins","Giants","DT","Ohio State",2013
+"303",2,18,50,"Jon Bostic","Bears","LB","Florida",2013
+"304",2,19,51,"David Amerson","Redskins","DB","North Carolina State",2013
+"305",2,20,52,"Jamie Collins","Patriots","LB","Southern Mississippi",2013
+"306",2,21,53,"Margus Hunt","Bengals","DE","Southern Methodist",2013
+"307",2,22,54,"Jamar Taylor","Dolphins","DB","Boise State",2013
+"308",2,23,55,"Vance McDonald","49ers","TE","Rice",2013
+"309",2,24,56,"Arthur Brown","Ravens","LB","Kansas State",2013
+"310",2,25,57,"D.J. Swearinger","Texans","DB","South Carolina",2013
+"311",2,26,58,"Montee Ball","Broncos","RB","Wisconsin",2013
+"312",2,27,59,"Aaron Dobson","Patriots","WR","Marshall",2013
+"313",2,28,60,"Robert Alford","Falcons","DB","Southeastern Louisiana",2013
+"314",2,29,61,"Eddie Lacy","Packers","RB","Alabama",2013
+"315",2,30,62,"Christine Michael","Seahawks","RB","Texas A&M",2013
+"316",3,1,63,"Travis Kelce","Chiefs","TE","Cincinnati",2013
+"317",3,2,64,"Dwayne Gratz","Jaguars","DB","Connecticut",2013
+"318",3,3,65,"Larry Warford","Lions"," G","Kentucky",2013
+"319",3,4,66,"Sio Moore","Raiders","LB","Connecticut",2013
+"320",3,5,67,"Bennie Logan","Eagles","DT","Louisiana State",2013
+"321",3,6,68,"Leon McFadden","Browns","DB","San Diego State",2013
+"322",3,7,69,"Tyrann Mathieu","Cardinals","DB","Louisiana State",2013
+"323",3,8,70,"Blidi Wreh-Wilson","Titans","DB","Connecticut",2013
+"324",3,9,71,"T.J. McDonald","Rams","DB","USC",2013
+"325",3,10,72,"Brian Winters","Jets"," G","Kent State",2013
+"326",3,11,73,"Mike Glennon","Buccaneers","QB","North Carolina State",2013
+"327",3,12,74,"Terrance Williams","Cowboys","WR","Baylor",2013
+"328",3,13,75,"Terron Armstead","Saints"," T","Arkansas-Pine Bluff",2013
+"329",3,14,76,"Keenan Allen","Chargers","WR","California",2013
+"330",3,15,77,"Dallas Thomas","Dolphins"," T","Tennessee",2013
+"331",3,16,78,"Marquise Goodwin","Bills","WR","Texas",2013
+"332",3,17,79,"Markus Wheaton","Steelers","WR","Oregon State",2013
+"333",3,18,80,"J.J. Wilcox","Cowboys","DB","Georgia Southern",2013
+"334",3,19,81,"Damontre Moore","Giants","DE","Texas A&M",2013
+"335",3,20,82,"John Jenkins","Saints","DT","Georgia",2013
+"336",3,21,83,"Logan Ryan","Patriots","DB","Rutgers",2013
+"337",3,22,84,"Shawn Williams","Bengals","DB","Georgia",2013
+"338",3,23,85,"Jordan Reed","Redskins","TE","Florida",2013
+"339",3,24,86,"Hugh Thornton","Colts"," G","Illinois",2013
+"340",3,25,87,"Jordan Hill","Seahawks","DT","Penn State",2013
+"341",3,26,88,"Corey Lemonier","49ers","DE","Auburn",2013
+"342",3,27,89,"Brennan Williams","Texans"," T","North Carolina",2013
+"343",3,28,90,"Kayvon Webster","Broncos","DB","South Florida",2013
+"344",3,29,91,"Duron Harmon","Patriots","DB","Rutgers",2013
+"345",3,30,92,"Stedman Bailey","Rams","WR","West Virginia",2013
+"346",3,31,93,"Will Davis","Dolphins","DB","Utah State",2013
+"347",3,32,94,"Brandon Williams","Ravens","DT","Missouri Southern State",2013
+"348",3,33,95,"Sam Montgomery","Texans","DE","Louisiana State",2013
+"349",3,34,96,"Knile Davis","Chiefs","RB","Arkansas",2013
+"350",3,35,97,"Zaviar Gooden","Titans","LB","Missouri",2013
+"351",4,1,98,"Matt Barkley","Eagles","QB","USC",2013
+"352",4,2,99,"Nico Johnson","Chiefs","LB","Alabama",2013
+"353",4,3,100,"Akeem Spence","Buccaneers","DT","Illinois",2013
+"354",4,4,101,"Ace Sanders","Jaguars","WR","South Carolina",2013
+"355",4,5,102,"Josh Boyce","Patriots","WR","Texas Christian",2013
+"356",4,6,103,"Alex Okafor","Cardinals","DE","Texas",2013
+"357",4,7,104,"Jelani Jenkins","Dolphins","LB","Florida",2013
+"358",4,8,105,"Duke Williams","Bills","DB","Nevada",2013
+"359",4,9,106,"Dion Sims","Dolphins","TE","Michigan State",2013
+"360",4,10,107,"Brian Schwenke","Titans"," C","California",2013
+"361",4,11,108,"Edmund Kugbila","Panthers"," G","Valdosta State",2013
+"362",4,12,109,"David Bakhtiari","Packers"," T","Colorado",2013
+"363",4,13,110,"Ryan Nassib","Giants","QB","Syracuse",2013
+"364",4,14,111,"Shamarko Thomas","Steelers","DB","Syracuse",2013
+"365",4,15,112,"Tyler Wilson","Raiders","QB","Arkansas",2013
+"366",4,16,113,"Barrett Jones","Rams"," G","Alabama",2013
+"367",4,17,114,"B.W. Webb","Cowboys","DB","William & Mary",2013
+"368",4,18,115,"Landry Jones","Steelers","QB","Oklahoma",2013
+"369",4,19,116,"Earl Watford","Cardinals"," G","James Madison",2013
+"370",4,20,117,"Khaseem Greene","Bears","LB","Rutgers",2013
+"371",4,21,118,"Sean Porter","Bengals","LB","Texas A&M",2013
+"372",4,22,119,"Phillip Thomas","Redskins","DB","Fresno State",2013
+"373",4,23,120,"Gerald Hodges","Vikings","LB","Penn State",2013
+"374",4,24,121,"Khaled Holmes","Colts"," C","USC",2013
+"375",4,25,122,"J.C. Tretter","Packers"," T","Cornell",2013
+"376",4,26,123,"Chris Harper","Seahawks","WR","Kansas State",2013
+"377",4,27,124,"Trevardo Williams","Texans","DE","Connecticut",2013
+"378",4,28,125,"Johnathan Franklin","Packers","RB","UCLA",2013
+"379",4,29,126,"William Gholston","Buccaneers","DE","Michigan State",2013
+"380",4,30,127,"Malliciah Goodman","Falcons","DE","Clemson",2013
+"381",4,31,128,"Quinton Patton","49ers","WR","Louisiana Tech",2013
+"382",4,32,129,"John Simon","Ravens","DE","Ohio State",2013
+"383",4,33,130,"Kyle Juszczyk","Ravens","RB","Harvard",2013
+"384",4,34,131,"Marcus Lattimore","49ers","RB","South Carolina",2013
+"385",4,35,132,"Devin Taylor","Lions","DE","South Carolina",2013
+"386",4,36,133,"Levine Toilolo","Falcons","TE","Stanford",2013
+"387",5,1,134,"Sanders Commings","Chiefs","DB","Georgia",2013
+"388",5,2,135,"Denard Robinson","Jaguars","WR","Michigan",2013
+"389",5,3,136,"Earl Wolff","Eagles","DB","North Carolina State",2013
+"390",5,4,137,"Jesse Williams","Seahawks","DT","Alabama",2013
+"391",5,5,138,"Tharold Simon","Seahawks","DB","Louisiana State",2013
+"392",5,6,139,"Montori Hughes","Colts","DT","Tennessee-Martin",2013
+"393",5,7,140,"Stepfan Taylor","Cardinals","RB","Stanford",2013
+"394",5,8,141,"Oday Aboushi","Jets"," T","Virginia",2013
+"395",5,9,142,"Lavar Edwards","Titans","DE","Louisiana State",2013
+"396",5,10,143,"Jonathan Meeks","Bills","DB","Clemson",2013
+"397",5,11,144,"Kenny Stills","Saints","WR","Oklahoma",2013
+"398",5,12,145,"Steve Williams","Chargers","DB","California",2013
+"399",5,13,146,"Quanterus Smith","Broncos","DE","Western Kentucky",2013
+"400",5,14,147,"Steven Means","Buccaneers","DE","Buffalo",2013
+"401",5,15,148,"A.J. Klein","Panthers","LB","Iowa State",2013
+"402",5,16,149,"Brandon McGee","Rams","DB","Miami (FL)",2013
+"403",5,17,150,"Terry Hawthorne","Steelers","DB","Illinois",2013
+"404",5,18,151,"Joseph Randle","Cowboys","RB","Oklahoma State",2013
+"405",5,19,152,"Cooper Taylor","Giants","DB","Richmond",2013
+"406",5,20,153,"Stansly Maponga","Falcons","DE","Texas Christian",2013
+"407",5,21,154,"Chris Thompson","Redskins","RB","Florida State",2013
+"408",5,22,155,"Jeff Locke","Vikings"," P","UCLA",2013
+"409",5,23,156,"Tanner Hawkinson","Bengals"," T","Kansas",2013
+"410",5,24,157,"Quinton Dial","49ers","DE","Alabama",2013
+"411",5,25,158,"Luke Willson","Seahawks","TE","Rice",2013
+"412",5,26,159,"Micah Hyde","Packers","DB","Iowa",2013
+"413",5,27,160,"Zac Stacy","Rams","RB","Vanderbilt",2013
+"414",5,28,161,"Tavarres King","Broncos","WR","Georgia",2013
+"415",5,29,162,"Brandon Jenkins","Redskins","DE","Florida State",2013
+"416",5,30,163,"Jordan Mills","Bears"," T","Louisiana Tech",2013
+"417",5,31,164,"Mike Gillislee","Dolphins","RB","Florida",2013
+"418",5,32,165,"Sam Martin","Lions"," P","Appalachian State",2013
+"419",5,33,166,"Caleb Sturgis","Dolphins"," K","Florida",2013
+"420",5,34,167,"Josh Boyd","Packers","DE","Mississippi State",2013
+"421",5,35,168,"Ricky Wagner","Ravens"," T","Wisconsin",2013
+"422",6,1,169,"Josh Evans","Jaguars","DB","Florida",2013
+"423",6,2,170,"Eric Kush","Chiefs"," C","California (PA)",2013
+"424",6,3,171,"Corey Fuller","Lions","WR","Virginia Tech",2013
+"425",6,4,172,"Nick Kasa","Raiders","TE","Colorado",2013
+"426",6,5,173,"Vinston Painter","Broncos"," T","Virginia Tech",2013
+"427",6,6,174,"Ryan Swope","Cardinals","WR","Texas A&M",2013
+"428",6,7,175,"Jamoris Slaughter","Browns","DB","Notre Dame",2013
+"429",6,8,176,"David Quessenberry","Texans"," T","San Jose State",2013
+"430",6,9,177,"Dustin Hopkins","Bills"," K","Florida State",2013
+"431",6,10,178,"William Campbell","Jets"," G","Michigan",2013
+"432",6,11,179,"Tourek Williams","Chargers","DE","Florida International",2013
+"433",6,12,180,"Nick Moody","49ers","LB","Florida State",2013
+"434",6,13,181,"Latavius Murray","Raiders","RB","Central Florida",2013
+"435",6,14,182,"Kenjon Barner","Panthers","RB","Oregon",2013
+"436",6,15,183,"Rufus Johnson","Saints","DE","Tarleton State",2013
+"437",6,16,184,"Mychal Rivera","Raiders","TE","Tennessee",2013
+"438",6,17,185,"DeVonte Holloman","Cowboys","LB","South Carolina",2013
+"439",6,18,186,"Justin Brown","Steelers","WR","Oklahoma",2013
+"440",6,19,187,"Andre Ellington","Cardinals","RB","Clemson",2013
+"441",6,20,188,"Cornelius Washington","Bears","LB","Georgia",2013
+"442",6,21,189,"Mike James","Buccaneers","RB","Miami (FL)",2013
+"443",6,22,190,"Rex Burkhead","Bengals","RB","Nebraska",2013
+"444",6,23,191,"Bacarri Rambo","Redskins","DB","Georgia",2013
+"445",6,24,192,"John Boyett","Colts","DB","Oregon",2013
+"446",6,25,193,"Nate Palmer","Packers","LB","Illinois State",2013
+"447",6,26,194,"Spencer Ware","Seahawks","RB","Louisiana State",2013
+"448",6,27,195,"Alan Bonner","Texans","WR","Jacksonville State",2013
+"449",6,28,196,"Jeff Baca","Vikings"," G","UCLA",2013
+"450",6,29,197,"Cobi Hamilton","Bengals","WR","Arkansas",2013
+"451",6,30,198,"Chris Jones","Texans","DT","Bowling Green",2013
+"452",6,31,199,"Theo Riddick","Lions","RB","Notre Dame",2013
+"453",6,32,200,"Kapron Lewis-Moore","Ravens","DE","Notre Dame",2013
+"454",6,33,201,"Ryan Griffin","Texans","TE","Connecticut",2013
+"455",6,34,202,"Khalid Wooten","Titans","DB","Nevada",2013
+"456",6,35,203,"Ryan Jensen","Ravens"," T","Colorado State-Pueblo",2013
+"457",6,36,204,"Braden Wilson","Chiefs","RB","Kansas State",2013
+"458",6,37,205,"Stacy McGee","Raiders","DT","Oklahoma",2013
+"459",6,38,206,"Vince Williams","Steelers","LB","Florida State",2013
+"460",7,1,207,"Mike Catapano","Chiefs","DE","Princeton",2013
+"461",7,2,208,"Jeremy Harris","Jaguars","DB","New Mexico State",2013
+"462",7,3,209,"Brice Butler","Raiders","WR","San Diego State",2013
+"463",7,4,210,"Demetrius McCray","Jaguars","DB","Appalachian State",2013
+"464",7,5,211,"Michael Williams","Lions","TE","Alabama",2013
+"465",7,6,212,"Joe Kruger","Eagles","DE","Utah",2013
+"466",7,7,213,"Michael Mauti","Vikings","LB","Penn State",2013
+"467",7,8,214,"Travis Bond","Vikings"," G","North Carolina",2013
+"468",7,9,215,"Tommy Bohanon","Jets","RB","Wake Forest",2013
+"469",7,10,216,"Charles Johnson","Packers","WR","Grand Valley State",2013
+"470",7,11,217,"Armonty Bryant","Browns","DE","East Central (OK)",2013
+"471",7,12,218,"Jordan Poyer","Eagles","DB","Oregon State",2013
+"472",7,13,219,"D.C. Jefferson","Cardinals","TE","Rutgers",2013
+"473",7,14,220,"Ryan Seymour","Seahawks"," G","Vanderbilt",2013
+"474",7,15,221,"Brad Sorensen","Chargers","QB","Southern Utah",2013
+"475",7,16,222,"Chris Gragg","Bills","TE","Arkansas",2013
+"476",7,17,223,"Nick Williams","Steelers","DT","Samford",2013
+"477",7,18,224,"Kevin Dorsey","Packers","WR","Maryland",2013
+"478",7,19,225,"Eric Herman","Giants"," G","Ohio",2013
+"479",7,20,226,"Michael Buchanan","Patriots","DE","Illinois",2013
+"480",7,21,227,"Garrett Gilkey","Browns"," T","Chadron State",2013
+"481",7,22,228,"Jawan Jamison","Redskins","RB","Rutgers",2013
+"482",7,23,229,"Everett Dawkins","Vikings","DT","Florida State",2013
+"483",7,24,230,"Kerwynn Williams","Colts","RB","Utah State",2013
+"484",7,25,231,"Ty Powell","Seahawks","DE","Harding",2013
+"485",7,26,232,"Sam Barrington","Packers","LB","South Florida",2013
+"486",7,27,233,"David Bass","Raiders","DE","Missouri Western",2013
+"487",7,28,234,"Zac Dysert","Broncos","QB","Miami (OH)",2013
+"488",7,29,235,"Steve Beauharnais","Patriots","LB","Rutgers",2013
+"489",7,30,236,"Marquess Wilson","Bears","WR","Washington State",2013
+"490",7,31,237,"B.J. Daniels","49ers","QB","South Florida",2013
+"491",7,32,238,"Aaron Mellette","Ravens","WR","Elon",2013
+"492",7,33,239,"David King","Eagles","DE","Oklahoma",2013
+"493",7,34,240,"Reid Fragel","Bengals"," T","Ohio State",2013
+"494",7,35,241,"Jared Smith","Seahawks","DT","New Hampshire",2013
+"495",7,36,242,"Michael Bowie","Seahawks"," T","NE Oklahoma State",2013
+"496",7,37,243,"Kemal Ishmael","Falcons","DB","Central Florida",2013
+"497",7,38,244,"Zeke Motta","Falcons","DB","Notre Dame",2013
+"498",7,39,245,"Brandon Hepburn","Lions","LB","Florida A&M",2013
+"499",7,40,246,"Carter Bykowski","49ers"," T","Iowa State",2013
+"500",7,41,247,"Marc Anthony","Ravens","DB","California",2013
+"501",7,42,248,"Daimion Stafford","Titans","DB","Nebraska",2013
+"502",7,43,249,"Sean Renfree","Falcons","QB","Duke",2013
+"503",7,44,250,"Don Jones","Dolphins","DB","Arkansas State",2013
+"504",7,45,251,"T.J. Johnson","Bengals"," C","South Carolina",2013
+"505",7,46,252,"Marcus Cooper","49ers","DB","Rutgers",2013
+"506",7,47,253,"Michael Cox","Giants","RB","Massachusetts",2013
+"507",7,48,254,"Justice Cunningham","Colts","TE","South Carolina",2013
+"508",1,1,1,"Jadeveon Clowney","Texans","DE","South Carolina",2014
+"509",1,2,2,"Greg Robinson","Rams"," T","Auburn",2014
+"510",1,3,3,"Blake Bortles","Jaguars","QB","Central Florida",2014
+"511",1,4,4,"Sammy Watkins","Bills","WR","Clemson",2014
+"512",1,5,5,"Khalil Mack","Raiders","LB","Buffalo",2014
+"513",1,6,6,"Jake Matthews","Falcons"," T","Texas A&M",2014
+"514",1,7,7,"Mike Evans","Buccaneers","WR","Texas A&M",2014
+"515",1,8,8,"Justin Gilbert","Browns","DB","Oklahoma State",2014
+"516",1,9,9,"Anthony Barr","Vikings","LB","UCLA",2014
+"517",1,10,10,"Eric Ebron","Lions","TE","North Carolina",2014
+"518",1,11,11,"Taylor Lewan","Titans"," T","Michigan",2014
+"519",1,12,12,"Odell Beckham Jr.","Giants","WR","Louisiana State",2014
+"520",1,13,13,"Aaron Donald","Rams","DT","Pittsburgh",2014
+"521",1,14,14,"Kyle Fuller","Bears","DB","Virginia Tech",2014
+"522",1,15,15,"Ryan Shazier","Steelers","LB","Ohio State",2014
+"523",1,16,16,"Zack Martin","Cowboys"," T","Notre Dame",2014
+"524",1,17,17,"C.J. Mosley","Ravens","LB","Alabama",2014
+"525",1,18,18,"Calvin Pryor","Jets","DB","Louisville",2014
+"526",1,19,19,"Ja'Wuan James","Dolphins"," T","Tennessee",2014
+"527",1,20,20,"Brandin Cooks","Saints","WR","Oregon State",2014
+"528",1,21,21,"Ha Ha Clinton-Dix","Packers","DB","Alabama",2014
+"529",1,22,22,"Johnny Manziel","Browns","QB","Texas A&M",2014
+"530",1,23,23,"Dee Ford","Chiefs","DE","Auburn",2014
+"531",1,24,24,"Darqueze Dennard","Bengals","DB","Michigan State",2014
+"532",1,25,25,"Jason Verrett","Chargers","DB","Texas Christian",2014
+"533",1,26,26,"Marcus Smith","Eagles","DE","Louisville",2014
+"534",1,27,27,"Deone Bucannon","Cardinals","DB","Washington State",2014
+"535",1,28,28,"Kelvin Benjamin","Panthers","WR","Florida State",2014
+"536",1,29,29,"Dominique Easley","Patriots","DT","Florida",2014
+"537",1,30,30,"Jimmie Ward","49ers","DB","Northern Illinois",2014
+"538",1,31,31,"Bradley Roby","Broncos","DB","Ohio State",2014
+"539",1,32,32,"Teddy Bridgewater","Vikings","QB","Louisville",2014
+"540",2,1,33,"Xavier Su'a-Filo","Texans"," G","UCLA",2014
+"541",2,2,34,"Demarcus Lawrence","Cowboys","DE","Boise State",2014
+"542",2,3,35,"Joel Bitonio","Browns"," G","Nevada",2014
+"543",2,4,36,"Derek Carr","Raiders","QB","Fresno State",2014
+"544",2,5,37,"Ra'Shede Hageman","Falcons","DT","Minnesota",2014
+"545",2,6,38,"Austin Seferian-Jenkins","Buccaneers","TE","Washington",2014
+"546",2,7,39,"Marqise Lee","Jaguars","WR","USC",2014
+"547",2,8,40,"Kyle Van Noy","Lions","LB","Brigham Young",2014
+"548",2,9,41,"Lamarcus Joyner","Rams","DB","Florida State",2014
+"549",2,10,42,"Jordan Matthews","Eagles","WR","Vanderbilt",2014
+"550",2,11,43,"Weston Richburg","Giants"," C","Colorado State",2014
+"551",2,12,44,"Cyrus Kouandjio","Bills"," T","Alabama",2014
+"552",2,13,45,"Paul Richardson","Seahawks","WR","Colorado",2014
+"553",2,14,46,"Stephon Tuitt","Steelers","DE","Notre Dame",2014
+"554",2,15,47,"Trent Murphy","Redskins","LB","Stanford",2014
+"555",2,16,48,"Timmy Jernigan","Ravens","DT","Florida State",2014
+"556",2,17,49,"Jace Amaro","Jets","TE","Texas Tech",2014
+"557",2,18,50,"Jeremiah Attaochu","Chargers","LB","Georgia Tech",2014
+"558",2,19,51,"Ego Ferguson","Bears","DT","Louisiana State",2014
+"559",2,20,52,"Troy Niklas","Cardinals","TE","Notre Dame",2014
+"560",2,21,53,"Davante Adams","Packers","WR","Fresno State",2014
+"561",2,22,54,"Bishop Sankey","Titans","RB","Washington",2014
+"562",2,23,55,"Jeremy Hill","Bengals","RB","Louisiana State",2014
+"563",2,24,56,"Cody Latimer","Broncos","WR","Indiana",2014
+"564",2,25,57,"Carlos Hyde","49ers","RB","Ohio State",2014
+"565",2,26,58,"Stanley Jean-Baptiste","Saints","DB","Nebraska",2014
+"566",2,27,59,"Jack Mewhort","Colts"," T","Ohio State",2014
+"567",2,28,60,"Kony Ealy","Panthers","DE","Missouri",2014
+"568",2,29,61,"Allen Robinson","Jaguars","WR","Penn State",2014
+"569",2,30,62,"Jimmy Garoppolo","Patriots","QB","Eastern Illinois",2014
+"570",2,31,63,"Jarvis Landry","Dolphins","WR","Louisiana State",2014
+"571",2,32,64,"Justin Britt","Seahawks"," T","Missouri",2014
+"572",3,1,65,"C.J. Fiedorowicz","Texans","TE","Iowa",2014
+"573",3,2,66,"Morgan Moses","Redskins"," T","Virginia",2014
+"574",3,3,67,"Billy Turner","Dolphins"," T","North Dakota State",2014
+"575",3,4,68,"Dezmen Southward","Falcons","DB","Wisconsin",2014
+"576",3,5,69,"Charles Sims","Buccaneers","RB","West Virginia",2014
+"577",3,6,70,"Marcus Martin","49ers"," C","USC",2014
+"578",3,7,71,"Christian Kirksey","Browns","LB","Iowa",2014
+"579",3,8,72,"Scott Crichton","Vikings","DE","Oregon State",2014
+"580",3,9,73,"Preston Brown","Bills","LB","Louisville",2014
+"581",3,10,74,"Jay Bromley","Giants","DT","Syracuse",2014
+"582",3,11,75,"Tre Mason","Rams","RB","Auburn",2014
+"583",3,12,76,"Travis Swanson","Lions"," C","Arkansas",2014
+"584",3,13,77,"Chris  Borland","49ers","LB","Wisconsin",2014
+"585",3,14,78,"Spencer Long","Redskins"," G","Nebraska",2014
+"586",3,15,79,"Terrence Brooks","Ravens","DB","Florida State",2014
+"587",3,16,80,"Dexter McDougle","Jets","DB","Maryland",2014
+"588",3,17,81,"Gabe Jackson","Raiders"," G","Mississippi State",2014
+"589",3,18,82,"Will Sutton","Bears","DT","Arizona State",2014
+"590",3,19,83,"Louis Nix","Texans","DT","Notre Dame",2014
+"591",3,20,84,"Kareem Martin","Cardinals","DE","North Carolina",2014
+"592",3,21,85,"Khyri Thornton","Packers","DT","Southern Mississippi",2014
+"593",3,22,86,"Josh Huff","Eagles","WR","Oregon",2014
+"594",3,23,87,"Phillip Gaines","Chiefs","DB","Rice",2014
+"595",3,24,88,"Will Clarke","Bengals","DE","West Virginia",2014
+"596",3,25,89,"Chris Watt","Chargers"," G","Notre Dame",2014
+"597",3,26,90,"Donte Moncrief","Colts","WR","Mississippi",2014
+"598",3,27,91,"John Brown","Cardinals","WR","Pittsburg State (KS)",2014
+"599",3,28,92,"Trai Turner","Panthers"," G","Louisiana State",2014
+"600",3,29,93,"Brandon Linder","Jaguars"," G","Miami (FL)",2014
+"601",3,30,94,"Terrance West","Browns","RB","Towson",2014
+"602",3,31,95,"Michael Schofield","Broncos"," T","Michigan",2014
+"603",3,32,96,"Jerick McKinnon","Vikings","RB","Georgia Southern",2014
+"604",3,33,97,"Dri Archer","Steelers","RB","Kent State",2014
+"605",3,34,98,"Richard Rodgers","Packers","TE","California",2014
+"606",3,35,99,"Crockett Gillmore","Ravens","TE","Colorado State",2014
+"607",3,36,100,"Brandon Thomas","49ers"," T","Clemson",2014
+"608",4,1,101,"Jaylen Watkins","Eagles","DB","Florida",2014
+"609",4,2,102,"Bashaud Breeland","Redskins","DB","Clemson",2014
+"610",4,3,103,"Devonta Freeman","Falcons","RB","Florida State",2014
+"611",4,4,104,"Jalen Saunders","Jets","WR","Oklahoma",2014
+"612",4,5,105,"Bryan Stork","Patriots"," C","Florida State",2014
+"613",4,6,106,"Bruce Ellington","49ers","WR","South Carolina",2014
+"614",4,7,107,"Justin Ellis","Raiders","DT","Louisiana Tech",2014
+"615",4,8,108,"Cassius Marsh","Seahawks","DE","UCLA",2014
+"616",4,9,109,"Ross Cockrell","Bills","DB","Duke",2014
+"617",4,10,110,"Mo Alexander","Rams","DB","Utah State",2014
+"618",4,11,111,"Russell Bodine","Bengals"," C","North Carolina",2014
+"619",4,12,112,"DaQuan Jones","Titans","DT","Penn State",2014
+"620",4,13,113,"Andre Williams","Giants","RB","Boston College",2014
+"621",4,14,114,"Aaron Colvin","Jaguars","DB","Oklahoma",2014
+"622",4,15,115,"Shaq Evans","Jets","WR","UCLA",2014
+"623",4,16,116,"Keith McGill","Raiders","DB","Utah",2014
+"624",4,17,117,"Ka'Deem Carey","Bears","RB","Arizona",2014
+"625",4,18,118,"Martavis Bryant","Steelers","WR","Clemson",2014
+"626",4,19,119,"Anthony Hitchens","Cowboys","LB","Iowa",2014
+"627",4,20,120,"Logan Thomas","Cardinals","QB","Virginia Tech",2014
+"628",4,21,121,"Carl  Bradford","Packers","LB","Arizona State",2014
+"629",4,22,122,"Marqueston Huff","Titans","DB","Wyoming",2014
+"630",4,23,123,"Kevin Norwood","Seahawks","WR","Alabama",2014
+"631",4,24,124,"De'Anthony Thomas","Chiefs","RB","Oregon",2014
+"632",4,25,125,"Walt Aikens","Dolphins","DB","Liberty",2014
+"633",4,26,126,"Khairi Fortt","Saints","LB","California",2014
+"634",4,27,127,"Pierre Desir","Browns","DB","Lindenwood",2014
+"635",4,28,128,"Tre  Boston","Panthers","DB","North Carolina",2014
+"636",4,29,129,"Dontae Johnson","49ers","DB","North Carolina State",2014
+"637",4,30,130,"James White","Patriots","RB","Wisconsin",2014
+"638",4,31,131,"Brock Vereen","Bears","DB","Minnesota",2014
+"639",4,32,132,"Kevin Pierre-Louis","Seahawks","LB","Boston College",2014
+"640",4,33,133,"Nevin Lawson","Lions","DB","Utah State",2014
+"641",4,34,134,"Brent Urban","Ravens","DT","Virginia",2014
+"642",4,35,135,"Tom Savage","Texans","QB","Pittsburgh",2014
+"643",4,36,136,"Larry Webster","Lions","DE","Bloomsburg (PA)",2014
+"644",4,37,137,"Dakota Dozier","Jets"," T","Furman",2014
+"645",4,38,138,"Lorenzo Taliaferro","Ravens","RB","Coastal Carolina",2014
+"646",4,39,139,"Prince  Shembo","Falcons","LB","Notre Dame",2014
+"647",4,40,140,"Cameron Fleming","Patriots"," T","Stanford",2014
+"648",5,1,141,"Taylor Hart","Eagles","DE","Oregon",2014
+"649",5,2,142,"Ryan Grant","Redskins","WR","Tulane",2014
+"650",5,3,143,"Kadeem Edwards","Buccaneers"," G","Tennessee State",2014
+"651",5,4,144,"Telvin Smith","Jaguars","LB","Florida State",2014
+"652",5,5,145,"David Yankey","Vikings"," G","Stanford",2014
+"653",5,6,146,"Devin Street","Cowboys","WR","Pittsburgh",2014
+"654",5,7,147,"Ricardo Allen","Falcons","DB","Purdue",2014
+"655",5,8,148,"Bene  Benwikere","Panthers","DB","San Jose State",2014
+"656",5,9,149,"Kevin Pamphile","Buccaneers"," T","Purdue",2014
+"657",5,10,150,"Aaron  Lynch","49ers","DE","South Florida",2014
+"658",5,11,151,"Avery Williamson","Titans","LB","Kentucky",2014
+"659",5,12,152,"Nat Berhe","Giants","DB","San Diego State",2014
+"660",5,13,153,"Cyril Richardson","Bills"," G","Baylor",2014
+"661",5,14,154,"Jeremiah George","Jets","LB","Iowa State",2014
+"662",5,15,155,"Arthur Lynch","Dolphins","TE","Georgia",2014
+"663",5,16,156,"Lamin Barrow","Broncos","LB","Louisiana State",2014
+"664",5,17,157,"Shaquille Richardson","Steelers","DB","Arizona",2014
+"665",5,18,158,"Caraun Reid","Lions","DT","Princeton",2014
+"666",5,19,159,"Chris  Smith","Jaguars","DE","Arkansas",2014
+"667",5,20,160,"Ed Stinson","Cardinals","DE","Alabama",2014
+"668",5,21,161,"Corey Linsley","Packers"," C","Ohio State",2014
+"669",5,22,162,"Ed Reynolds","Eagles","DB","Stanford",2014
+"670",5,23,163,"Aaron  Murray","Chiefs","QB","Georgia",2014
+"671",5,24,164,"AJ McCarron","Bengals","QB","Alabama",2014
+"672",5,25,165,"Ryan Carrethers","Chargers","DT","Arkansas State",2014
+"673",5,26,166,"Jonathan Newsome","Colts","DE","Ball State",2014
+"674",5,27,167,"Vinnie Sunseri","Saints","DB","Alabama",2014
+"675",5,28,168,"Marquis Spruill","Falcons","LB","Syracuse",2014
+"676",5,29,169,"Ronald Powell","Saints","LB","Florida",2014
+"677",5,30,170,"Keith Reaser","49ers","DB","Florida Atlantic",2014
+"678",5,31,171,"Jordan Tripp","Dolphins","LB","Montana",2014
+"679",5,32,172,"Jimmy Staten","Seahawks","DT","Middle Tennessee State",2014
+"680",5,33,173,"Wesley Johnson","Steelers"," T","Vanderbilt",2014
+"681",5,34,174,"Devon Kennard","Giants","LB","USC",2014
+"682",5,35,175,"John Urschel","Ravens"," G","Penn State",2014
+"683",5,36,176,"Jared Abbrederis","Packers","WR","Wisconsin",2014
+"684",6,1,177,"Jeoffrey Pagan","Texans","DE","Alabama",2014
+"685",6,2,178,"Zach Mettenberger","Titans","QB","Louisiana State",2014
+"686",6,3,179,"Jon Halapio","Patriots"," G","Florida",2014
+"687",6,4,180,"Kenneth Acker","49ers","DB","Southern Methodist",2014
+"688",6,5,181,"Alfred Blue","Texans","RB","Louisiana State",2014
+"689",6,6,182,"Antone Exum","Vikings","DB","Virginia Tech",2014
+"690",6,7,183,"David Fales","Bears","QB","San Jose State",2014
+"691",6,8,184,"Kendall James","Vikings","DB","Maine",2014
+"692",6,9,185,"Robert Herron","Buccaneers","WR","Wyoming",2014
+"693",6,10,186,"Lache Seastrunk","Redskins","RB","Baylor",2014
+"694",6,11,187,"Bennett Jackson","Giants","DB","Notre Dame",2014
+"695",6,12,188,"E.J. Gaines","Rams","DB","Missouri",2014
+"696",6,13,189,"T.J.  Jones","Lions","WR","Notre Dame",2014
+"697",6,14,190,"Matt Hazel","Dolphins","WR","Coastal Carolina",2014
+"698",6,15,191,"Pat O'Donnell","Bears"," P","Miami (FL)",2014
+"699",6,16,192,"Jordan Zumwalt","Steelers","LB","UCLA",2014
+"700",6,17,193,"Zach Fulton","Chiefs"," G","Tennessee",2014
+"701",6,18,194,"Keith Wenning","Ravens","QB","Ball State",2014
+"702",6,19,195,"Brandon Dixon","Jets","DB","Northwest Missouri State",2014
+"703",6,20,196,"Walt Powell","Cardinals","WR","Murray State",2014
+"704",6,21,197,"Demetri Goodson","Packers","DB","Baylor",2014
+"705",6,22,198,"Zach Moore","Patriots","DE","Concordia (MN)",2014
+"706",6,23,199,"Garrett Scott","Seahawks"," T","Marshall",2014
+"707",6,24,200,"Laurent Duvernay-Tardif","Chiefs"," T","McGill",2014
+"708",6,25,201,"Marion Grice","Chargers","RB","Arizona State",2014
+"709",6,26,202,"Tavon Rooks","Saints"," T","Kansas State",2014
+"710",6,27,203,"Andrew Jackson","Colts","LB","Western Kentucky",2014
+"711",6,28,204,"Tyler Gaffney","Panthers","RB","Stanford",2014
+"712",6,29,205,"Luke Bowanko","Jaguars"," C","Virginia",2014
+"713",6,30,206,"Jemea Thomas","Patriots","DB","Georgia Tech",2014
+"714",6,31,207,"Matt Paradis","Broncos"," C","Boise State",2014
+"715",6,32,208,"Eric Pinkins","Seahawks","DB","San Diego State",2014
+"716",6,33,209,"Quincy Enunwa","Jets","WR","Nebraska",2014
+"717",6,34,210,"IK Enemkpali","Jets","DE","Louisiana Tech",2014
+"718",6,35,211,"Jay  Prosch","Texans","RB","Auburn",2014
+"719",6,36,212,"Marquis Flowers","Bengals","LB","Arizona",2014
+"720",6,37,213,"Tajh Boyd","Jets","QB","Clemson",2014
+"721",6,38,214,"Garrett Gilbert","Rams","QB","Southern Methodist",2014
+"722",6,39,215,"Daniel McCullers","Steelers","DT","Tennessee",2014
+"723",7,1,216,"Andre Hal","Texans","DB","Vanderbilt",2014
+"724",7,2,217,"Ted Bolser","Redskins","TE","Indiana",2014
+"725",7,3,218,"Mike Campanaro","Ravens","WR","Wake Forest",2014
+"726",7,4,219,"Travis Carrie","Raiders","DB","Ohio",2014
+"727",7,5,220,"Shamar Stephen","Vikings","DT","Connecticut",2014
+"728",7,6,221,"Randell Johnson","Bills","LB","Florida Atlantic",2014
+"729",7,7,222,"Storm Johnson","Jaguars","RB","Central Florida",2014
+"730",7,8,223,"Brandon Watts","Vikings","LB","Georgia Tech",2014
+"731",7,9,224,"Beau Allen","Eagles","DT","Wisconsin",2014
+"732",7,10,225,"Jabari Price","Vikings","DB","North Carolina",2014
+"733",7,11,226,"Mitchell Van Dyk","Rams"," T","Portland State",2014
+"734",7,12,227,"Kiero Small","Seahawks","RB","Arkansas",2014
+"735",7,13,228,"Zach Hocker","Redskins"," K","Arkansas",2014
+"736",7,14,229,"Nate Freese","Lions"," K","Boston College",2014
+"737",7,15,230,"Rob Blanchflower","Steelers","TE","Massachusetts",2014
+"738",7,16,231,"Ben Gardner","Cowboys","DE","Stanford",2014
+"739",7,17,232,"Ulrick John","Colts"," T","Georgia State",2014
+"740",7,18,233,"Trevor Reilly","Jets","LB","Utah",2014
+"741",7,19,234,"Terrence Fede","Dolphins","DE","Marist",2014
+"742",7,20,235,"Shelby Harris","Raiders","DE","Illinois State",2014
+"743",7,21,236,"Jeff Janis","Packers","WR","Saginaw Valley State",2014
+"744",7,22,237,"Seantrel Henderson","Bills"," T","Miami (FL)",2014
+"745",7,23,238,"Will Smith","Cowboys","LB","Texas Tech",2014
+"746",7,24,239,"James Wright","Bengals","WR","Louisiana State",2014
+"747",7,25,240,"Tevin Reese","Chargers","WR","Baylor",2014
+"748",7,26,241,"C.B. Bryant","Rams","DB","Ohio State",2014
+"749",7,27,242,"Corey Nelson","Broncos","LB","Oklahoma",2014
+"750",7,28,243,"Kaleb Ramsey","49ers","DE","Boston College",2014
+"751",7,29,244,"Jeremy Gallon","Patriots","WR","Michigan",2014
+"752",7,30,245,"Trey Millard","49ers","RB","Oklahoma",2014
+"753",7,31,246,"Charles Leno Jr.","Bears"," T","Boise State",2014
+"754",7,32,247,"Jonathan Dowling","Raiders","DB","Western Kentucky",2014
+"755",7,33,248,"Ahmad Dixon","Cowboys","DB","Baylor",2014
+"756",7,34,249,"Michael Sam","Rams","DE","Missouri",2014
+"757",7,35,250,"Demetrius Rhaney","Rams"," C","Tennessee State",2014
+"758",7,36,251,"Ken Bishop","Cowboys","DT","Northern Illinois",2014
+"759",7,37,252,"Lavelle Westbrooks","Bengals","DB","Georgia Southern",2014
+"760",7,38,253,"Yawin Smallwood","Falcons","LB","Connecticut",2014
+"761",7,39,254,"Terrance Mitchell","Cowboys","DB","Oregon",2014
+"762",7,40,255,"Tyler Starr","Falcons","LB","South Dakota",2014
+"763",7,41,256,"Lonnie Ballentine","Texans","DB","Memphis",2014
+"764",1,1,1,"Jameis Winston","Buccaneers","QB","Florida State",2015
+"765",1,2,2,"Marcus Mariota","Titans","QB","Oregon",2015
+"766",1,3,3,"Dante Fowler","Jaguars","LB","Florida",2015
+"767",1,4,4,"Amari Cooper","Raiders","WR","Alabama",2015
+"768",1,5,5,"Brandon Scherff","Redskins"," G","Iowa",2015
+"769",1,6,6,"Leonard Williams","Jets","DE","USC",2015
+"770",1,7,7,"Kevin White","Bears","WR","West Virginia",2015
+"771",1,8,8,"Vic Beasley","Falcons","LB","Clemson",2015
+"772",1,9,9,"Ereck Flowers","Giants"," G","Miami (FL)",2015
+"773",1,10,10,"Todd Gurley","Rams","RB","Georgia",2015
+"774",1,11,11,"Trae Waynes","Vikings","DB","Michigan State",2015
+"775",1,12,12,"Danny Shelton","Browns","DT","Washington",2015
+"776",1,13,13,"Andrus Peat","Saints"," T","Stanford",2015
+"777",1,14,14,"DeVante Parker","Dolphins","WR","Louisville",2015
+"778",1,15,15,"Melvin Gordon","Chargers","RB","Wisconsin",2015
+"779",1,16,16,"Kevin Johnson","Texans","DB","Wake Forest",2015
+"780",1,17,17,"Arik Armstead","49ers","DT","Oregon",2015
+"781",1,18,18,"Marcus Peters","Chiefs","DB","Washington",2015
+"782",1,19,19,"Cameron Erving","Browns"," C","Florida State",2015
+"783",1,20,20,"Nelson Agholor","Eagles","WR","USC",2015
+"784",1,21,21,"Cedric Ogbuehi","Bengals"," T","Texas A&M",2015
+"785",1,22,22,"Bud Dupree","Steelers","LB","Kentucky",2015
+"786",1,23,23,"Shane Ray","Broncos","DE","Missouri",2015
+"787",1,24,24,"D.J. Humphries","Cardinals"," T","Florida",2015
+"788",1,25,25,"Shaq Thompson","Panthers","LB","Washington",2015
+"789",1,26,26,"Breshad Perriman","Ravens","WR","Central Florida",2015
+"790",1,27,27,"Byron Jones","Cowboys","DB","Connecticut",2015
+"791",1,28,28,"Laken Tomlinson","Lions"," G","Duke",2015
+"792",1,29,29,"Phillip Dorsett","Colts","WR","Miami (FL)",2015
+"793",1,30,30,"Damarious Randall","Packers","DB","Arizona State",2015
+"794",1,31,31,"Stephone Anthony","Saints","LB","Clemson",2015
+"795",1,32,32,"Malcom Brown","Patriots","DT","Texas",2015
+"796",2,1,33,"Landon Collins","Giants","DB","Alabama",2015
+"797",2,2,34,"Donovan Smith","Buccaneers"," T","Penn State",2015
+"798",2,3,35,"Mario Edwards","Raiders","DT","Florida State",2015
+"799",2,4,36,"T.J. Yeldon","Jaguars","RB","Alabama",2015
+"800",2,5,37,"Devin Smith","Jets","WR","Ohio State",2015
+"801",2,6,38,"Preston Smith","Redskins","DE","Mississippi State",2015
+"802",2,7,39,"Eddie Goldman","Bears","DT","Florida State",2015
+"803",2,8,40,"Dorial Green-Beckham","Titans","WR","Missouri",2015
+"804",2,9,41,"Devin Funchess","Panthers","WR","Michigan",2015
+"805",2,10,42,"Jalen Collins","Falcons","DB","Louisiana State",2015
+"806",2,11,43,"Benardrick McKinney","Texans","LB","Mississippi State",2015
+"807",2,12,44,"Hau'oli Kikaha","Saints","LB","Washington",2015
+"808",2,13,45,"Eric Kendricks","Vikings","LB","UCLA",2015
+"809",2,14,46,"Jaquiski Tartt","49ers","DB","Samford",2015
+"810",2,15,47,"Eric Rowe","Eagles","DB","Utah",2015
+"811",2,16,48,"Denzel Perryman","Chargers","LB","Miami (FL)",2015
+"812",2,17,49,"Mitch Morse","Chiefs"," G","Missouri",2015
+"813",2,18,50,"Ronald Darby","Bills","DB","Florida State",2015
+"814",2,19,51,"Nate Orchard","Browns","DE","Utah",2015
+"815",2,20,52,"Jordan Phillips","Dolphins","DT","Oklahoma",2015
+"816",2,21,53,"Jake Fisher","Bengals"," T","Oregon",2015
+"817",2,22,54,"Ameer Abdullah","Lions","RB","Nebraska",2015
+"818",2,23,55,"Maxx Williams","Ravens","TE","Minnesota",2015
+"819",2,24,56,"Senquez Golson","Steelers","DB","Mississippi",2015
+"820",2,25,57,"Rob Havenstein","Rams"," T","Wisconsin",2015
+"821",2,26,58,"Markus Golden","Cardinals","DE","Missouri",2015
+"822",2,27,59,"Ty Sambrailo","Broncos"," T","Colorado State",2015
+"823",2,28,60,"Randy Gregory","Cowboys","LB","Nebraska",2015
+"824",2,29,61,"Ali Marpet","Buccaneers"," C","Hobart",2015
+"825",2,30,62,"Quinten Rollins","Packers","DB","Miami (OH)",2015
+"826",2,31,63,"Frank Clark","Seahawks","DE","Michigan",2015
+"827",2,32,64,"Jordan Richards","Patriots","DB","Stanford",2015
+"828",3,1,65,"D'Joun Smith","Colts","DB","Florida Atlantic",2015
+"829",3,2,66,"Jeremiah Poutasi","Titans"," G","Utah",2015
+"830",3,3,67,"A.J. Cann","Jaguars"," G","South Carolina",2015
+"831",3,4,68,"Clive Walford","Raiders","TE","Miami (FL)",2015
+"832",3,5,69,"Tyler Lockett","Seahawks","WR","Kansas State",2015
+"833",3,6,70,"Jaelen Strong","Texans","WR","Arizona State",2015
+"834",3,7,71,"Hroniss Grasu","Bears"," C","Oregon",2015
+"835",3,8,72,"Jamon Brown","Rams"," T","Louisville",2015
+"836",3,9,73,"Tevin Coleman","Falcons","RB","Indiana",2015
+"837",3,10,74,"Owamagbe Odighizuwa","Giants","DE","UCLA",2015
+"838",3,11,75,"Garrett Grayson","Saints","QB","Colorado State",2015
+"839",3,12,76,"Chris Conley","Chiefs","WR","Georgia",2015
+"840",3,13,77,"Duke Johnson Jr.","Browns","RB","Miami (FL)",2015
+"841",3,14,78,"P.J. Williams","Saints","DB","Florida State",2015
+"842",3,15,79,"Eli Harold","49ers","LB","Virginia",2015
+"843",3,16,80,"Alex Carter","Lions","DB","Stanford",2015
+"844",3,17,81,"John Miller","Bills"," G","Louisville",2015
+"845",3,18,82,"Lorenzo Mauldin","Jets","LB","Louisville",2015
+"846",3,19,83,"Craig Mager","Chargers","DB","Texas State",2015
+"847",3,20,84,"Jordan Hicks","Eagles","LB","Texas",2015
+"848",3,21,85,"Tyler Kroft","Bengals","TE","Rutgers",2015
+"849",3,22,86,"David Johnson","Cardinals","RB","Northern Iowa",2015
+"850",3,23,87,"Sammie Coates","Steelers","WR","Auburn",2015
+"851",3,24,88,"Danielle Hunter","Vikings","DE","Louisiana State",2015
+"852",3,25,89,"Sean Mannion","Rams","QB","Oregon State",2015
+"853",3,26,90,"Carl Davis","Ravens","DT","Iowa",2015
+"854",3,27,91,"Chaz Green","Cowboys"," T","Florida",2015
+"855",3,28,92,"Jeff Heuerman","Broncos","TE","Ohio State",2015
+"856",3,29,93,"Henry Anderson","Colts","DE","Stanford",2015
+"857",3,30,94,"Ty Montgomery","Packers","WR","Stanford",2015
+"858",3,31,95,"Matt Jones","Redskins","RB","Florida",2015
+"859",3,32,96,"Xavier Cooper","Browns","DT","Washington State",2015
+"860",3,33,97,"Geneo Grissom","Patriots","DE","Oklahoma",2015
+"861",3,34,98,"Steven Nelson","Chiefs","DB","Oregon State",2015
+"862",3,35,99,"Paul Dawson","Bengals","LB","Texas Christian",2015
+"863",4,1,100,"Angelo Blackson","Titans","DT","Auburn",2015
+"864",4,2,101,"Trey Flowers","Patriots","DE","Arkansas",2015
+"865",4,3,102,"Daryl Williams","Panthers"," G","Oklahoma",2015
+"866",4,4,103,"Bryce Petty","Jets","QB","Baylor",2015
+"867",4,5,104,"James Sample","Jaguars","DB","Louisville",2015
+"868",4,6,105,"Jamison Crowder","Redskins","WR","Duke",2015
+"869",4,7,106,"Jeremy Langford","Bears","RB","Michigan State",2015
+"870",4,8,107,"Justin Hardy","Falcons","WR","East Carolina",2015
+"871",4,9,108,"Jalston Fowler","Titans","RB","Alabama",2015
+"872",4,10,109,"Clayton Geathers","Colts","DB","Central Florida",2015
+"873",4,11,110,"T.J. Clemmings","Vikings"," T","Pittsburgh",2015
+"874",4,12,111,"Tre' Jackson","Patriots"," G","Florida State",2015
+"875",4,13,112,"Arie Kouandjio","Redskins"," G","Alabama",2015
+"876",4,14,113,"Gabe Wright","Lions","DT","Auburn",2015
+"877",4,15,114,"Jamil Douglas","Dolphins"," G","Arizona State",2015
+"878",4,16,115,"Ibraheim Campbell","Browns","DB","Northwestern",2015
+"879",4,17,116,"Rodney Gunter","Cardinals","DT","Delaware State",2015
+"880",4,18,117,"Blake Bell","49ers","TE","Oklahoma",2015
+"881",4,19,118,"Ramik Wilson","Chiefs","LB","Georgia",2015
+"882",4,20,119,"Andrew Donnal","Rams"," T","Iowa",2015
+"883",4,21,120,"Josh Shaw","Bengals","DB","USC",2015
+"884",4,22,121,"Doran Grant","Steelers","DB","Ohio State",2015
+"885",4,23,122,"Za'Darius Smith","Ravens","DE","Kentucky",2015
+"886",4,24,123,"Vince Mayle","Browns","WR","Washington State",2015
+"887",4,25,124,"Kwon Alexander","Buccaneers","LB","Louisiana State",2015
+"888",4,26,125,"Javorius Allen","Ravens","RB","USC",2015
+"889",4,27,126,"Mike Davis","49ers","RB","South Carolina",2015
+"890",4,28,127,"Damien Wilson","Cowboys","LB","Minnesota",2015
+"891",4,29,128,"Jon Feliciano","Raiders"," G","Miami (FL)",2015
+"892",4,30,129,"Jake Ryan","Packers","LB","Michigan",2015
+"893",4,31,130,"Terry Poole","Seahawks"," G","San Diego State",2015
+"894",4,32,131,"Shaquille Mason","Patriots"," C","Georgia Tech",2015
+"895",4,33,132,"DeAndre Smelter","49ers","WR","Georgia Tech",2015
+"896",4,34,133,"Max Garcia","Broncos"," C","Florida",2015
+"897",4,35,134,"Mark Glowinski","Seahawks"," G","West Virginia",2015
+"898",4,36,135,"Marcus Hardison","Bengals","DE","Arizona State",2015
+"899",4,37,136,"Tray Walker","Ravens","DB","Texas Southern",2015
+"900",5,1,137,"Grady Jarrett","Falcons","DT","Clemson",2015
+"901",5,2,138,"David Cobb","Titans","RB","Minnesota",2015
+"902",5,3,139,"Rashad Greene","Jaguars","WR","Florida State",2015
+"903",5,4,140,"Ben Heeney","Raiders","LB","Kansas",2015
+"904",5,5,141,"Martrell Spaight","Redskins","LB","Arkansas",2015
+"905",5,6,142,"Adrian Amos","Bears","DB","Penn State",2015
+"906",5,7,143,"MyCole Pruitt","Vikings","TE","Southern Illinois",2015
+"907",5,8,144,"Mykkele Thompson","Giants","DB","Texas",2015
+"908",5,9,145,"Bobby McCain","Dolphins","DB","Memphis",2015
+"909",5,10,146,"Stefon Diggs","Vikings","WR","Maryland",2015
+"910",5,11,147,"Brett Hundley","Packers","QB","UCLA",2015
+"911",5,12,148,"Davis Tull","Saints","LB","Tennessee-Chattanooga",2015
+"912",5,13,149,"Jay Ajayi","Dolphins","RB","Boise State",2015
+"913",5,14,150,"Cedric Thompson","Dolphins","DB","Minnesota",2015
+"914",5,15,151,"David Parry","Colts","DT","Stanford",2015
+"915",5,16,152,"Jarvis Harrison","Jets"," G","Texas A&M",2015
+"916",5,17,153,"Kyle Emanuel","Chargers","LB","North Dakota State",2015
+"917",5,18,154,"Tyeler Davison","Saints","DT","Fresno State",2015
+"918",5,19,155,"Karlos Williams","Bills","RB","Florida State",2015
+"919",5,20,156,"Tony Lippett","Dolphins","WR","Michigan State",2015
+"920",5,21,157,"C.J. Uzomah","Bengals","TE","Auburn",2015
+"921",5,22,158,"Shaquille Riddick","Cardinals","DE","West Virginia",2015
+"922",5,23,159,"J.J. Nelson","Cardinals","WR","Alabama-Birmingham",2015
+"923",5,24,160,"Jesse James","Steelers","TE","Penn State",2015
+"924",5,25,161,"Neiron Ball","Raiders","LB","Florida",2015
+"925",5,26,162,"Kenny Bell","Buccaneers","WR","Nebraska",2015
+"926",5,27,163,"Ryan Russell","Cowboys","DE","Purdue",2015
+"927",5,28,164,"Lorenzo Doss","Broncos","DB","Tulane",2015
+"928",5,29,165,"Bradley Pinion","49ers"," P","Clemson",2015
+"929",5,30,166,"Joe Cardona","Patriots"," C","Navy",2015
+"930",5,31,167,"Damian Swann","Saints","DB","Georgia",2015
+"931",5,32,168,"Michael Burton","Lions","RB","Rutgers",2015
+"932",5,33,169,"David Mayo","Panthers","LB","Texas State",2015
+"933",5,34,170,"Tye Smith","Seahawks","DB","Towson",2015
+"934",5,35,171,"Nick Boyle","Ravens","TE","Delaware",2015
+"935",5,36,172,"D.J. Alexander","Chiefs","LB","Oregon State",2015
+"936",5,37,173,"James O'Shaughnessy","Chiefs","TE","Illinois State",2015
+"937",5,38,174,"Cameron Artis-Payne","Panthers","RB","Auburn",2015
+"938",5,39,175,"Keith Mumphery","Texans","WR","Michigan State",2015
+"939",5,40,176,"Robert Myers","Ravens"," G","Tennessee State",2015
+"940",6,1,177,"Deiontrez Mount","Titans","LB","Louisville",2015
+"941",6,2,178,"Matthew Wells","Patriots","LB","Mississippi State",2015
+"942",6,3,179,"Max Valles","Raiders","LB","Virginia",2015
+"943",6,4,180,"Michael Bennett","Jaguars","DT","Ohio State",2015
+"944",6,5,181,"Kyshoen Jarrett","Redskins","DB","Virginia Tech",2015
+"945",6,6,182,"Tevin Mitchel","Redskins","DB","Arkansas",2015
+"946",6,7,183,"Tayo Fabuluje","Bears"," G","Texas Christian",2015
+"947",6,8,184,"Kaelin Clay","Buccaneers","WR","Utah",2015
+"948",6,9,185,"Tyrus Thompson","Vikings"," T","Oklahoma",2015
+"949",6,10,186,"Geremy Davis","Giants","WR","Connecticut",2015
+"950",6,11,187,"Evan Spencer","Redskins","WR","Ohio State",2015
+"951",6,12,188,"Tony Steward","Bills","LB","Clemson",2015
+"952",6,13,189,"Charles Gaines","Browns","DB","Louisville",2015
+"953",6,14,190,"Ian Silberman","49ers"," G","Boston College",2015
+"954",6,15,191,"JaCorey Shepherd","Eagles","DB","Kansas",2015
+"955",6,16,192,"Darius Philon","Chargers","DT","Arkansas",2015
+"956",6,17,193,"B.J. Dubose","Vikings","DE","Louisville",2015
+"957",6,18,194,"Nick O'Leary","Bills","TE","Florida State",2015
+"958",6,19,195,"Malcolm Johnson","Browns","TE","Mississippi State",2015
+"959",6,20,196,"Randall Evans","Eagles","DB","Kansas State",2015
+"960",6,21,197,"Derron Smith","Bengals","DB","Fresno State",2015
+"961",6,22,198,"Randall Telfer","Browns","TE","USC",2015
+"962",6,23,199,"Leterrius Walton","Steelers","DT","Central Michigan",2015
+"963",6,24,200,"Quandre Diggs","Lions","DB","Texas",2015
+"964",6,25,201,"Bud Sasser","Rams","WR","Missouri",2015
+"965",6,26,202,"A.J. Derby","Patriots","TE","Arkansas",2015
+"966",6,27,203,"Darius Kilgo","Broncos","DT","Maryland",2015
+"967",6,28,204,"Darren Waller","Ravens","WR","Georgia Tech",2015
+"968",6,29,205,"Josh Robinson","Colts","RB","Mississippi State",2015
+"969",6,30,206,"Aaron Ripkowski","Packers","RB","Oklahoma",2015
+"970",6,31,207,"Amarlo Herrera","Colts","LB","Georgia",2015
+"971",6,32,208,"Andy Gallik","Titans"," C","Boston College",2015
+"972",6,33,209,"Obum Gwacham","Seahawks","DE","Oregon State",2015
+"973",6,34,210,"Christian Ringo","Packers","DE","Louisiana-Lafayette",2015
+"974",6,35,211,"Reshard Cliett","Texans","LB","South Florida",2015
+"975",6,36,212,"Anthony Chickillo","Steelers","DE","Miami (FL)",2015
+"976",6,37,213,"Kennard Backman","Packers","TE","Alabama-Birmingham",2015
+"977",6,38,214,"Kristjan Sokoli","Seahawks","DT","Buffalo",2015
+"978",6,39,215,"Cody Wichmann","Rams"," G","Fresno State",2015
+"979",6,40,216,"Christian Covington","Texans","DT","Rice",2015
+"980",6,41,217,"Rakeem Nunez-Roches","Chiefs","DT","Southern Mississippi",2015
+"981",7,1,218,"Anthony Morris","Raiders"," T","Tennessee State",2015
+"982",7,2,219,"Hayes Pullard","Browns","LB","USC",2015
+"983",7,3,220,"Neal Sterling","Jaguars","WR","Monmouth",2015
+"984",7,4,221,"Andre Debose","Raiders","WR","Florida",2015
+"985",7,5,222,"Austin Reiter","Redskins"," C","South Florida",2015
+"986",7,6,223,"Deon Simon","Jets","DT","Northwestern State (LA)",2015
+"987",7,7,224,"Bryce Hager","Rams","LB","Baylor",2015
+"988",7,8,225,"Jake Rodgers","Falcons"," T","Eastern Washington",2015
+"989",7,9,226,"Bobby Hart","Giants"," G","Florida State",2015
+"990",7,10,227,"Martin Ifedi","Rams","DE","Memphis",2015
+"991",7,11,228,"Austin Shepherd","Vikings"," T","Alabama",2015
+"992",7,12,229,"Ben Koyack","Jaguars","TE","Notre Dame",2015
+"993",7,13,230,"Marcus Murphy","Saints","RB","Missouri",2015
+"994",7,14,231,"Joey Iosefa","Buccaneers","RB","Hawaii",2015
+"995",7,15,232,"Edmond Robinson","Vikings","LB","Newberry",2015
+"996",7,16,233,"Da'Ron Brown","Chiefs","WR","Northern Illinois",2015
+"997",7,17,234,"Dezmin Lewis","Bills","WR","Central Arkansas",2015
+"998",7,18,235,"Kenny Hilliard","Texans","RB","Louisiana State",2015
+"999",7,19,236,"Mark Nzeocha","Cowboys","LB","Wyoming",2015
+"1000",7,20,237,"Brian Mihalik","Eagles","DE","Boston College",2015
+"1001",7,21,238,"Mario Alford","Bengals","WR","West Virginia",2015
+"1002",7,22,239,"Gerod Holliman","Steelers","DB","Louisville",2015
+"1003",7,23,240,"Corey Robinson","Lions"," T","South Carolina",2015
+"1004",7,24,241,"Ifo Ekpre-Olomu","Browns","DB","Oregon",2015
+"1005",7,25,242,"Dexter McDonald","Raiders","DB","Kansas",2015
+"1006",7,26,243,"Laurence Gibson","Cowboys"," T","Virginia Tech",2015
+"1007",7,27,244,"Trenton Brown","49ers"," G","Florida",2015
+"1008",7,28,245,"Tre McBride","Titans","WR","William & Mary",2015
+"1009",7,29,246,"Geoff Swaim","Cowboys","TE","Texas",2015
+"1010",7,30,247,"Darryl Roberts","Patriots","DB","Marshall",2015
+"1011",7,31,248,"Ryan Murphy","Seahawks","DB","Oregon State",2015
+"1012",7,32,249,"Akeem King","Falcons","DB","San Jose State",2015
+"1013",7,33,250,"Trevor Siemian","Broncos","QB","Northwestern",2015
+"1014",7,34,251,"Taurean Nixon","Broncos","DB","Tulane",2015
+"1015",7,35,252,"Josh Furman","Broncos","DB","Oklahoma State",2015
+"1016",7,36,253,"Xzavier Dickson","Patriots","LB","Alabama",2015
+"1017",7,37,254,"Rory 'Busta' Anderson","49ers","TE","South Carolina",2015
+"1018",7,38,255,"Denzell Goode","Colts"," T","Mars Hill",2015
+"1019",7,39,256,"Gerald Christian","Cardinals","TE","Louisville",2015
+"1020",1,1,1,"Jared Goff","Rams","QB","California",2016
+"1021",1,2,2,"Carson Wentz","Eagles","QB","North Dakota State",2016
+"1022",1,3,3,"Joey Bosa","Chargers","DE","Ohio State",2016
+"1023",1,4,4,"Ezekiel Elliott","Cowboys","RB","Ohio State",2016
+"1024",1,5,5,"Jalen Ramsey","Jaguars","DB","Florida State",2016
+"1025",1,6,6,"Ronnie Stanley","Ravens"," T","Notre Dame",2016
+"1026",1,7,7,"DeForest Buckner","49ers","DE","Oregon",2016
+"1027",1,8,8,"Jack Conklin","Titans"," T","Michigan State",2016
+"1028",1,9,9,"Leonard Floyd","Bears","LB","Georgia",2016
+"1029",1,10,10,"Eli Apple","Giants","DB","Ohio State",2016
+"1030",1,11,11,"Vernon Hargreaves","Buccaneers","DB","Florida",2016
+"1031",1,12,12,"Sheldon Rankins","Saints","DT","Louisville",2016
+"1032",1,13,13,"Laremy Tunsil","Dolphins"," T","Mississippi",2016
+"1033",1,14,14,"Karl Joseph","Raiders","DB","West Virginia",2016
+"1034",1,15,15,"Corey Coleman","Browns","WR","Baylor",2016
+"1035",1,16,16,"Taylor Decker","Lions"," T","Ohio State",2016
+"1036",1,17,17,"Keanu Neal","Falcons","DB","Florida",2016
+"1037",1,18,18,"Ryan Kelly","Colts"," C","Alabama",2016
+"1038",1,19,19,"Shaq Lawson","Bills","DE","Clemson",2016
+"1039",1,20,20,"Darron Lee","Jets","LB","Ohio State",2016
+"1040",1,21,21,"Will Fuller","Texans","WR","Notre Dame",2016
+"1041",1,22,22,"Josh Doctson","Redskins","WR","Texas Christian",2016
+"1042",1,23,23,"Laquon Treadwell","Vikings","WR","Mississippi",2016
+"1043",1,24,24,"William Jackson III","Bengals","DB","Houston",2016
+"1044",1,25,25,"Artie Burns","Steelers","DB","Miami (FL)",2016
+"1045",1,26,26,"Paxton Lynch","Broncos","QB","Memphis",2016
+"1046",1,27,27,"Kenny Clark","Packers","DT","UCLA",2016
+"1047",1,28,28,"Joshua Garnett","49ers"," G","Stanford",2016
+"1048",1,29,29,"Robert Nkemdiche","Cardinals","DT","Mississippi",2016
+"1049",1,30,30,"Vernon Butler","Panthers","DT","Louisiana Tech",2016
+"1050",1,31,31,"Germain Ifedi","Seahawks"," G","Texas A&M",2016
+"1051",2,1,32,"Emmanuel Ogbah","Browns","DE","Oklahoma State",2016
+"1052",2,2,33,"Kevin Dodd","Titans","DE","Clemson",2016
+"1053",2,3,34,"Jaylon Smith","Cowboys","LB","Notre Dame",2016
+"1054",2,4,35,"Hunter Henry","Chargers","TE","Arkansas",2016
+"1055",2,5,36,"Myles Jack","Jaguars","LB","UCLA",2016
+"1056",2,6,37,"Chris Jones","Chiefs","DT","Mississippi State",2016
+"1057",2,7,38,"Xavien Howard","Dolphins","DB","Baylor",2016
+"1058",2,8,39,"Noah Spence","Buccaneers","DE","Eastern Kentucky",2016
+"1059",2,9,40,"Sterling Shepard","Giants","WR","Oklahoma",2016
+"1060",2,10,41,"Reggie Ragland","Bills","LB","Alabama",2016
+"1061",2,11,42,"Kamalei Correa","Ravens","DE","Boise State",2016
+"1062",2,12,43,"Austin Johnson","Titans","DT","Penn State",2016
+"1063",2,13,44,"Jihad Ward","Raiders","DE","Illinois",2016
+"1064",2,14,45,"Derrick Henry","Titans","RB","Alabama",2016
+"1065",2,15,46,"A'Shawn Robinson","Lions","DT","Alabama",2016
+"1066",2,16,47,"Michael Thomas","Saints","WR","Ohio State",2016
+"1067",2,17,48,"Jason Spriggs","Packers"," T","Indiana",2016
+"1068",2,18,49,"Jarran Reed","Seahawks","DT","Alabama",2016
+"1069",2,19,50,"Nick Martin","Texans"," G","Notre Dame",2016
+"1070",2,20,51,"Christian Hackenberg","Jets","QB","Penn State",2016
+"1071",2,21,52,"Deion Jones","Falcons","LB","Louisiana State",2016
+"1072",2,22,53,"Su'a Cravens","Redskins","LB","USC",2016
+"1073",2,23,54,"Mackensie Alexander","Vikings","DB","Clemson",2016
+"1074",2,24,55,"Tyler Boyd","Bengals","WR","Pittsburgh",2016
+"1075",2,25,56,"Cody Whitehair","Bears"," G","Kansas State",2016
+"1076",2,26,57,"T.J. Green","Colts","DB","Clemson",2016
+"1077",2,27,58,"Sean Davis","Steelers","DB","Maryland",2016
+"1078",2,28,59,"Roberto Aguayo","Buccaneers"," K","Florida State",2016
+"1079",2,29,60,"Cyrus Jones","Patriots","DB","Alabama",2016
+"1080",2,30,61,"Vonn Bell","Saints","DB","Ohio State",2016
+"1081",2,31,62,"James Bradberry","Panthers","DB","Samford",2016
+"1082",2,32,63,"Adam Gotsis","Broncos","DT","Georgia Tech",2016
+"1083",3,1,64,"Kevin Byard","Titans","DB","Middle Tennessee State",2016
+"1084",3,2,65,"Carl Nassib","Browns","DE","Penn State",2016
+"1085",3,3,66,"Max Tuerk","Chargers"," C","USC",2016
+"1086",3,4,67,"Maliek Collins","Cowboys","DT","Nebraska",2016
+"1087",3,5,68,"Will Redmond","49ers","DB","Mississippi State",2016
+"1088",3,6,69,"Yannick Ngakoue","Jaguars","DE","Maryland",2016
+"1089",3,7,70,"Bronson Kaufusi","Ravens","DE","Brigham Young",2016
+"1090",3,8,71,"Darian Thompson","Giants","DB","Boise State",2016
+"1091",3,9,72,"Jonathan Bullard","Bears","DT","Florida",2016
+"1092",3,10,73,"Kenyan Drake","Dolphins","RB","Alabama",2016
+"1093",3,11,74,"KeiVarae Russell","Chiefs","DB","Notre Dame",2016
+"1094",3,12,75,"Shilique Calhoun","Raiders","DE","Michigan State",2016
+"1095",3,13,76,"Shon Coleman","Browns"," T","Auburn",2016
+"1096",3,14,77,"Daryl Worley","Panthers","DB","West Virginia",2016
+"1097",3,15,78,"Joe Thuney","Patriots"," G","North Carolina State",2016
+"1098",3,16,79,"Isaac Seumalo","Eagles"," G","Oregon State",2016
+"1099",3,17,80,"Adolphus Washington","Bills","DT","Ohio State",2016
+"1100",3,18,81,"Austin Hooper","Falcons","TE","Stanford",2016
+"1101",3,19,82,"Le'Raven Clark","Colts"," T","Texas Tech",2016
+"1102",3,20,83,"Jordan Jenkins","Jets","LB","Georgia",2016
+"1103",3,21,84,"Kendall Fuller","Redskins","DB","Virginia Tech",2016
+"1104",3,22,85,"Braxton Miller","Texans","WR","Ohio State",2016
+"1105",3,23,86,"Leonte Carroo","Dolphins","WR","Rutgers",2016
+"1106",3,24,87,"Nick Vigil","Bengals","LB","Utah State",2016
+"1107",3,25,88,"Kyler Fackrell","Packers","LB","Utah State",2016
+"1108",3,26,89,"Javon Hargrave","Steelers","DT","South Carolina State",2016
+"1109",3,27,90,"C.J. Prosise","Seahawks","RB","Notre Dame",2016
+"1110",3,29,91,"Jacoby Brissett","Patriots","QB","North Carolina State",2016
+"1111",3,30,92,"Brandon Williams","Cardinals","DB","Texas A&M",2016
+"1112",3,31,93,"Cody Kessler","Browns","QB","USC",2016
+"1113",3,32,94,"Nick Vannett","Seahawks","TE","Ohio State",2016
+"1114",3,33,95,"Graham Glasgow","Lions"," C","Michigan",2016
+"1115",3,34,96,"Vincent Valentine","Patriots","DT","Nebraska",2016
+"1116",3,35,97,"Rees Odhiambo","Seahawks"," G","Boise State",2016
+"1117",3,36,98,"Justin Simmons","Broncos","DB","Boston College",2016
+"1118",4,1,99,"Joe Schobert","Browns","LB","Wisconsin",2016
+"1119",4,2,100,"Connor Cook","Raiders","QB","Michigan State",2016
+"1120",4,3,101,"Charles Tapper","Cowboys","DE","Oklahoma",2016
+"1121",4,4,102,"Joshua Perry","Chargers","LB","Ohio State",2016
+"1122",4,5,103,"Sheldon Day","Jaguars","DT","Notre Dame",2016
+"1123",4,6,104,"Tavon Young","Ravens","DB","Temple",2016
+"1124",4,7,105,"Parker Ehinger","Chiefs"," G","Cincinnati",2016
+"1125",4,8,106,"Eric Murray","Chiefs","DB","Minnesota",2016
+"1126",4,9,107,"Chris Moore","Ravens","WR","Cincinnati",2016
+"1127",4,10,108,"Ryan Smith","Buccaneers","DB","North Carolina Central",2016
+"1128",4,11,109,"B.J. Goodson","Giants","LB","Clemson",2016
+"1129",4,12,110,"Tyler Higbee","Rams","TE","Western Kentucky",2016
+"1130",4,13,111,"Miles Killebrew","Lions","DB","Southern Utah",2016
+"1131",4,14,112,"Malcolm Mitchell","Patriots","WR","Georgia",2016
+"1132",4,15,113,"Nick Kwiatkoski","Bears","LB","West Virginia",2016
+"1133",4,16,114,"Ricardo Louis","Browns","WR","Auburn",2016
+"1134",4,17,115,"De'Vondre Campbell","Falcons","LB","Minnesota",2016
+"1135",4,18,116,"Hassan Ridgeway","Colts","DT","Texas",2016
+"1136",4,19,117,"Pharoh Cooper","Rams","WR","South Carolina",2016
+"1137",4,20,118,"Juston Burris","Jets","DB","North Carolina State",2016
+"1138",4,21,119,"Tyler Ervin","Texans","RB","San Jose State",2016
+"1139",4,22,120,"David Onyemata","Saints","DT","Manitoba",2016
+"1140",4,23,121,"Willie Beavers","Vikings"," T","Western Michigan",2016
+"1141",4,24,122,"Andrew Billings","Bengals","DT","Baylor",2016
+"1142",4,25,123,"Jerald Hawkins","Steelers"," T","Louisiana State",2016
+"1143",4,26,124,"Deon Bush","Bears","DB","Miami (FL)",2016
+"1144",4,27,125,"Antonio Morrison","Colts","LB","Florida",2016
+"1145",4,28,126,"Demarcus Robinson","Chiefs","WR","Florida",2016
+"1146",4,29,127,"Deiondre' Hall","Bears","DB","Northern Iowa",2016
+"1147",4,30,128,"Evan Boehm","Cardinals"," C","Missouri",2016
+"1148",4,31,129,"Derrick Kindred","Browns","DB","Texas Christian",2016
+"1149",4,32,130,"Alex Lewis","Ravens"," T","Nebraska",2016
+"1150",4,33,131,"Blake Martinez","Packers","LB","Stanford",2016
+"1151",4,34,132,"Willie Henry","Ravens","DT","Michigan",2016
+"1152",4,35,133,"Rashard Robinson","49ers","DB","Louisiana State",2016
+"1153",4,36,134,"Kenneth Dixon","Ravens","RB","Louisiana Tech",2016
+"1154",4,37,135,"Dak Prescott","Cowboys","QB","Mississippi State",2016
+"1155",4,38,136,"Devontae Booker","Broncos","RB","Utah",2016
+"1156",4,39,137,"Dean Lowry","Packers","DE","Northwestern",2016
+"1157",4,40,138,"Seth Devalve","Browns","TE","Princeton",2016
+"1158",4,41,139,"Cardale Jones","Bills","QB","Ohio State",2016
+"1159",5,1,140,"Tajae Sharpe","Titans","WR","Massachusetts",2016
+"1160",5,2,141,"Zack Sanchez","Panthers","DB","Oklahoma",2016
+"1161",5,3,142,"Ronald Blair","49ers","DE","Appalachian State",2016
+"1162",5,4,143,"DeAndre Washington","Raiders","RB","Texas Tech",2016
+"1163",5,5,144,"Connor McGovern","Broncos"," G","Missouri",2016
+"1164",5,6,145,"John Theus","49ers"," T","Georgia",2016
+"1165",5,7,146,"Matt Judon","Ravens","DE","Grand Valley State",2016
+"1166",5,8,147,"Quinton Jefferson","Seahawks","DT","Maryland",2016
+"1167",5,9,148,"Caleb Benenoch","Buccaneers"," T","UCLA",2016
+"1168",5,10,149,"Paul Perkins","Giants","RB","UCLA",2016
+"1169",5,11,150,"Jordan Howard","Bears","RB","Indiana",2016
+"1170",5,12,151,"Joe Dahl","Lions"," G","Washington State",2016
+"1171",5,13,152,"Matthew Ioannidis","Redskins","DT","Temple",2016
+"1172",5,14,153,"Wendell Smallwood","Eagles","RB","West Virginia",2016
+"1173",5,15,154,"Jordan Payton","Browns","WR","UCLA",2016
+"1174",5,17,155,"Joe Haeg","Colts"," T","North Dakota State",2016
+"1175",5,18,156,"Jonathan Williams","Bills","RB","Arkansas",2016
+"1176",5,20,157,"LeShaun Sims","Titans","DB","Southern Utah",2016
+"1177",5,21,158,"Brandon Shell","Jets"," T","South Carolina",2016
+"1178",5,22,159,"K.J. Dillon","Texans","DB","West Virginia",2016
+"1179",5,23,160,"Kentrell Brothers","Vikings","LB","Missouri",2016
+"1180",5,24,161,"Christian Westerman","Bengals"," G","Arizona State",2016
+"1181",5,25,162,"Kevin Hogan","Chiefs","QB","Stanford",2016
+"1182",5,26,163,"Trevor Davis","Packers","WR","California",2016
+"1183",5,27,164,"Halapoulivaati Vaitai","Eagles"," T","Texas Christian",2016
+"1184",5,28,165,"Tyreek Hill","Chiefs","WR","West Alabama",2016
+"1185",5,29,166,"D.J. Reader","Texans","DT","Clemson",2016
+"1186",5,30,167,"Marqui Christian","Cardinals","DB","Midwestern State (TX)",2016
+"1187",5,31,168,"Spencer Drango","Browns"," G","Baylor",2016
+"1188",5,32,169,"Antwione Williams","Lions","LB","Georgia Southern",2016
+"1189",5,33,170,"Cole Toner","Cardinals"," T","Harvard",2016
+"1190",5,34,171,"Alex Collins","Seahawks","RB","Arkansas",2016
+"1191",5,35,172,"Rashard Higgins","Browns","WR","Colorado State",2016
+"1192",5,36,173,"Trey Caldwell","Browns","DB","Louisiana-Monroe",2016
+"1193",5,37,174,"Fahn Cooper","49ers"," T","Mississippi",2016
+"1194",5,38,175,"Jatavis Brown","Chargers","LB","Akron",2016
+"1195",6,1,176,"Andy Janovich","Broncos","RB","Nebraska",2016
+"1196",6,2,177,"Temarrick Hemingway","Rams","TE","South Carolina State",2016
+"1197",6,3,178,"D.J. White","Chiefs","DB","Georgia Tech",2016
+"1198",6,4,179,"Drew Kaser","Chargers"," P","Texas A&M",2016
+"1199",6,5,180,"Moritz Boehringer","Vikings","WR","",2016
+"1200",6,6,181,"Tyrone Holmes","Jaguars","LB","Montana",2016
+"1201",6,7,182,"Keenan Reynolds","Ravens","RB","Navy",2016
+"1202",6,8,183,"Devante Bond","Buccaneers","LB","Oklahoma",2016
+"1203",6,9,184,"Jerell Adams","Giants","TE","South Carolina",2016
+"1204",6,10,185,"DeAndre Houston-Carson","Bears","DB","William & Mary",2016
+"1205",6,11,186,"Jakeem Grant","Dolphins","WR","Texas Tech",2016
+"1206",6,12,187,"Nate Sudfeld","Redskins","QB","Indiana",2016
+"1207",6,13,188,"David Morgan","Vikings","TE","Texas-San Antonio",2016
+"1208",6,14,189,"Anthony Brown","Cowboys","DB","Purdue",2016
+"1209",6,15,190,"Josh Forrest","Rams","LB","Kentucky",2016
+"1210",6,16,191,"Jake Rudock","Lions","QB","Michigan",2016
+"1211",6,17,192,"Kolby Listenbee","Bills","WR","Texas Christian",2016
+"1212",6,18,193,"Sebastian Tretola","Titans"," G","Arkansas",2016
+"1213",6,19,194,"Cory James","Raiders","LB","Colorado State",2016
+"1214",6,20,195,"Wes Schweitzer","Falcons"," G","San Jose State",2016
+"1215",6,21,196,"Blake Countess","Eagles","DB","Auburn",2016
+"1216",6,22,197,"Dan Vitale","Buccaneers","RB","Northwestern",2016
+"1217",6,23,198,"Derek Watt","Chargers","RB","Wisconsin",2016
+"1218",6,24,199,"Cody Core","Bengals","WR","Mississippi",2016
+"1219",6,25,200,"Kyle Murphy","Packers"," T","Stanford",2016
+"1220",6,26,201,"Brandon Allen","Jaguars","QB","Arkansas",2016
+"1221",6,27,202,"Anthony Zettel","Lions","DT","Penn State",2016
+"1222",6,28,203,"Dadi Nicolas","Chiefs","DE","Virginia Tech",2016
+"1223",6,29,204,"Jordan Lucas","Dolphins","DB","Penn State",2016
+"1224",6,30,205,"Harlan Miller","Cardinals","DB","Southeastern Louisiana",2016
+"1225",6,31,206,"Mike Thomas","Rams","WR","Southern Mississippi",2016
+"1226",6,32,207,"Jeff Driskel","49ers","QB","Louisiana Tech",2016
+"1227",6,33,208,"Kamu Grugier-Hill","Patriots","LB","Eastern Illinois",2016
+"1228",6,34,209,"Maurice Canady","Ravens","DB","Virginia",2016
+"1229",6,35,210,"Jimmy Landes","Lions"," C","Baylor",2016
+"1230",6,36,211,"Kelvin Taylor","49ers","RB","Florida",2016
+"1231",6,37,212,"Kavon Frazier","Cowboys","DB","Central Michigan",2016
+"1232",6,38,213,"Aaron Burbridge","49ers","WR","Michigan State",2016
+"1233",6,39,214,"Elandon Roberts","Patriots","LB","Houston",2016
+"1234",6,40,215,"Joey Hunt","Seahawks"," C","Texas Christian",2016
+"1235",6,41,216,"Darius Jackson","Cowboys","RB","Eastern Michigan",2016
+"1236",6,42,217,"Rico Gathers","Cowboys","TE","Baylor",2016
+"1237",6,43,218,"Kevon Seymour","Bills","DB","USC",2016
+"1238",6,44,219,"Will Parks","Broncos","DB","Arizona",2016
+"1239",6,45,220,"Travis Feeney","Steelers","LB","Washington",2016
+"1240",6,46,221,"Ted Karras","Patriots"," G","Illinois",2016
+"1241",7,1,222,"Aaron Wallace","Titans","LB","UCLA",2016
+"1242",7,2,223,"Brandon Doughty","Dolphins","QB","Western Kentucky",2016
+"1243",7,3,224,"Donavon Clark","Chargers"," G","Michigan State",2016
+"1244",7,4,225,"Devin Lucien","Patriots","WR","Arizona State",2016
+"1245",7,5,226,"Jonathan Woodard","Jaguars","DE","Central Arkansas",2016
+"1246",7,6,227,"Stephen Weatherly","Vikings","LB","Vanderbilt",2016
+"1247",7,7,228,"Riley Dixon","Broncos"," P","Syracuse",2016
+"1248",7,8,229,"DeMarcus Ayers","Steelers","WR","Houston",2016
+"1249",7,9,230,"Daniel Braverman","Bears","WR","Western Michigan",2016
+"1250",7,10,231,"Thomas Duarte","Dolphins","TE","UCLA",2016
+"1251",7,11,232,"Steven Daniels","Redskins","LB","Boston College",2016
+"1252",7,12,233,"Jalen Mills","Eagles","DB","Louisiana State",2016
+"1253",7,13,234,"Vadal Alexander","Raiders"," G","Louisiana State",2016
+"1254",7,14,235,"Lac Edwards","Jets"," P","Sam Houston State",2016
+"1255",7,15,236,"Dwayne Washington","Lions","RB","Washington",2016
+"1256",7,16,237,"Daniel Lasco","Saints","RB","California",2016
+"1257",7,17,238,"Devin Fuller","Falcons","WR","UCLA",2016
+"1258",7,18,239,"Trevor Bates","Colts","LB","Maine",2016
+"1259",7,19,240,"Alex McCalister","Eagles","DE","Florida",2016
+"1260",7,20,241,"Charone Peake","Jets","WR","Clemson",2016
+"1261",7,21,242,"Keith Marshall","Redskins","RB","Georgia",2016
+"1262",7,22,243,"Kenny Lawler","Seahawks","WR","California",2016
+"1263",7,23,244,"Jayron Kearse","Vikings","DB","Clemson",2016
+"1264",7,24,245,"Clayton Fejedelem","Bengals","DB","Illinois",2016
+"1265",7,25,246,"Tyler Matakevich","Steelers","LB","Temple",2016
+"1266",7,26,247,"Zac Brooks","Seahawks","RB","Clemson",2016
+"1267",7,27,248,"Austin Blythe","Colts"," C","Iowa",2016
+"1268",7,28,249,"Prince Charles Iworah","49ers","DB","Western Kentucky",2016
+"1269",7,29,250,"Scooby Wright III","Browns","LB","Arizona",2016
+"1270",7,30,251,"Joe Walker","Eagles","LB","Oregon",2016
+"1271",7,31,252,"Beau Sandland","Panthers","TE","Montana State",2016
+"1272",7,32,253,"Kalan Reed","Titans","DB","Southern Mississippi",2016
+"1273",1,1,1,"Myles Garrett","Browns","DE","Texas A&M",2017
+"1274",1,2,2,"Mitchell Trubisky","Bears","QB","North Carolina",2017
+"1275",1,3,3,"Solomon Thomas","49ers","DE","Stanford",2017
+"1276",1,4,4,"Leonard Fournette","Jaguars","RB","Louisiana State",2017
+"1277",1,5,5,"Corey Davis","Titans","WR","Western Michigan",2017
+"1278",1,6,6,"Jamal Adams","Jets","DB","Louisiana State",2017
+"1279",1,7,7,"Mike Williams","Chargers","WR","Clemson",2017
+"1280",1,8,8,"Christian McCaffrey","Panthers","RB","Stanford",2017
+"1281",1,9,9,"John Ross","Bengals","WR","Washington",2017
+"1282",1,10,10,"Patrick Mahomes","Chiefs","QB","Texas Tech",2017
+"1283",1,11,11,"Marshon Lattimore","Saints","DB","Ohio State",2017
+"1284",1,12,12,"Deshaun Watson","Texans","QB","Clemson",2017
+"1285",1,13,13,"Haason Reddick","Cardinals","LB","Temple",2017
+"1286",1,14,14,"Derek Barnett","Eagles","DE","Tennessee",2017
+"1287",1,15,15,"Malik Hooker","Colts","DB","Ohio State",2017
+"1288",1,16,16,"Marlon Humphrey","Ravens","DB","Alabama",2017
+"1289",1,17,17,"Jonathan Allen","Redskins","DE","Alabama",2017
+"1290",1,18,18,"Adoree' Jackson","Titans","DB","USC",2017
+"1291",1,19,19,"O.J. Howard","Buccaneers","TE","Alabama",2017
+"1292",1,20,20,"Garett Bolles","Broncos"," T","Utah",2017
+"1293",1,21,21,"Jarrad Davis","Lions","LB","Florida",2017
+"1294",1,22,22,"Charles Harris","Dolphins","LB","Missouri",2017
+"1295",1,23,23,"Evan Engram","Giants","TE","Mississippi",2017
+"1296",1,24,24,"Gareon Conley","Raiders","DB","Ohio State",2017
+"1297",1,25,25,"Jabrill Peppers","Browns","DB","Michigan",2017
+"1298",1,26,26,"Takkarist McKinley","Falcons","DE","UCLA",2017
+"1299",1,27,27,"Tre'Davious White","Bills","DB","Louisiana State",2017
+"1300",1,28,28,"Taco Charlton","Cowboys","DE","Michigan",2017
+"1301",1,29,29,"David Njoku","Browns","TE","Miami (FL)",2017
+"1302",1,30,30,"T.J. Watt","Steelers","LB","Wisconsin",2017
+"1303",1,31,31,"Reuben Foster","49ers","LB","Alabama",2017
+"1304",1,32,32,"Ryan Ramczyk","Saints"," T","Wisconsin",2017
+"1305",2,1,33,"Kevin King","Packers","DB","Washington",2017
+"1306",2,2,34,"Cam Robinson","Jaguars"," T","Alabama",2017
+"1307",2,3,35,"Malik McDowell","Seahawks","DT","Michigan State",2017
+"1308",2,4,36,"Budda Baker","Cardinals","DB","Washington",2017
+"1309",2,5,37,"Zay Jones","Bills","WR","East Carolina",2017
+"1310",2,6,38,"Forrest Lamp","Chargers"," G","Western Kentucky",2017
+"1311",2,7,39,"Marcus Maye","Jets","DB","Florida",2017
+"1312",2,8,40,"Curtis Samuel","Panthers","WR","Ohio State",2017
+"1313",2,9,41,"Dalvin Cook","Vikings","RB","Florida State",2017
+"1314",2,10,42,"Marcus Williams","Saints","DB","Utah",2017
+"1315",2,11,43,"Sidney Jones","Eagles","DB","Washington",2017
+"1316",2,12,44,"Gerald Everett","Rams","TE","South Alabama",2017
+"1317",2,13,45,"Adam Shaheen","Bears","TE","Ashland",2017
+"1318",2,14,46,"Quincy Wilson","Colts","DB","Florida",2017
+"1319",2,15,47,"Tyus Bowser","Ravens","LB","Houston",2017
+"1320",2,16,48,"Joe Mixon","Bengals","RB","Oklahoma",2017
+"1321",2,17,49,"Ryan Anderson","Redskins","LB","Alabama",2017
+"1322",2,18,50,"Justin Evans","Buccaneers","DB","Texas A&M",2017
+"1323",2,19,51,"DeMarcus Walker","Broncos","DE","Florida State",2017
+"1324",2,20,52,"DeShone Kizer","Browns","QB","Notre Dame",2017
+"1325",2,21,53,"Teez Tabor","Lions","DB","Florida",2017
+"1326",2,22,54,"Raekwon McMillan","Dolphins","LB","Ohio State",2017
+"1327",2,23,55,"Dalvin Tomlinson","Giants","DT","Alabama",2017
+"1328",2,24,56,"Obi Melifonwu","Raiders","DB","Connecticut",2017
+"1329",2,25,57,"Zach Cunningham","Texans","LB","Vanderbilt",2017
+"1330",2,26,58,"Ethan Pocic","Seahawks"," C","Louisiana State",2017
+"1331",2,27,59,"Tanoh Kpassagnon","Chiefs","DE","Villanova",2017
+"1332",2,28,60,"Chidobe Awuzie","Cowboys","DB","Colorado",2017
+"1333",2,29,61,"Josh Jones","Packers","DB","North Carolina State",2017
+"1334",2,30,62,"JuJu Smith-Schuster","Steelers","WR","USC",2017
+"1335",2,31,63,"Dion Dawkins","Bills"," G","Temple",2017
+"1336",2,32,64,"Taylor Moton","Panthers"," G","Western Michigan",2017
+"1337",3,1,65,"Larry Ogunjobi","Browns","DT","North Carolina-Charlotte",2017
+"1338",3,2,66,"Ahkello Witherspoon","49ers","DB","Colorado",2017
+"1339",3,3,67,"Alvin Kamara","Saints","RB","Tennessee",2017
+"1340",3,4,68,"Dawuane Smoot","Jaguars","DE","Illinois",2017
+"1341",3,5,69,"Cooper Kupp","Rams","WR","Eastern Washington",2017
+"1342",3,6,70,"Pat Elflein","Vikings"," C","Ohio State",2017
+"1343",3,7,71,"Dan Feeney","Chargers"," G","Indiana",2017
+"1344",3,8,72,"Taywan Taylor","Titans","WR","Western Kentucky",2017
+"1345",3,9,73,"Jordan Willis","Bengals","LB","Kansas State",2017
+"1346",3,10,74,"Chris Wormley","Ravens","DE","Michigan",2017
+"1347",3,11,75,"Duke Riley","Falcons","LB","Louisiana State",2017
+"1348",3,12,76,"Alex Anzalone","Saints","LB","Florida",2017
+"1349",3,13,77,"Daeshon Hall","Panthers","DE","Texas A&M",2017
+"1350",3,14,78,"Tim Williams","Ravens","LB","Alabama",2017
+"1351",3,15,79,"ArDarius Stewart","Jets","WR","Alabama",2017
+"1352",3,16,80,"Tarell Basham","Colts","DE","Ohio",2017
+"1353",3,17,81,"Fabian Moreau","Redskins","DB","UCLA",2017
+"1354",3,18,82,"Carlos Henderson","Broncos","WR","Louisiana Tech",2017
+"1355",3,19,83,"Derek Rivers","Patriots","DE","Youngstown State",2017
+"1356",3,20,84,"Chris Godwin","Buccaneers","WR","Penn State",2017
+"1357",3,21,85,"Antonio Garcia","Patriots"," T","Troy",2017
+"1358",3,22,86,"Kareem Hunt","Chiefs","RB","Toledo",2017
+"1359",3,23,87,"Davis Webb","Giants","QB","California",2017
+"1360",3,24,88,"Eddie Vanderdoes","Raiders","DT","UCLA",2017
+"1361",3,25,89,"D'Onta Foreman","Texans","RB","Texas",2017
+"1362",3,26,90,"Shaquill Griffin","Seahawks","DB","Central Florida",2017
+"1363",3,27,91,"John Johnson","Rams","DB","Boston College",2017
+"1364",3,28,92,"Jourdan Lewis","Cowboys","DB","Michigan",2017
+"1365",3,29,93,"Montravius Adams","Packers","DT","Auburn",2017
+"1366",3,30,94,"Cameron Sutton","Steelers","DB","Tennessee",2017
+"1367",3,31,95,"Delano Hill","Seahawks","DB","Michigan",2017
+"1368",3,32,96,"Kenny Golladay","Lions","WR","Northern Illinois",2017
+"1369",3,33,97,"Cordrea Tankersley","Dolphins","DB","Clemson",2017
+"1370",3,34,98,"Chad Williams","Cardinals","WR","Grambling State",2017
+"1371",3,35,99,"Rasul Douglas","Eagles","DB","West Virginia",2017
+"1372",3,36,100,"Jonnu Smith","Titans","TE","Florida International",2017
+"1373",3,37,101,"Brendan Langley","Broncos","DB","Lamar",2017
+"1374",3,38,102,"Nazair Jones","Seahawks","DT","North Carolina",2017
+"1375",3,39,103,"Trey Hendrickson","Saints","LB","Florida Atlantic",2017
+"1376",3,40,104,"C.J. Beathard","49ers","QB","Iowa",2017
+"1377",3,41,105,"James Conner","Steelers","RB","Pittsburgh",2017
+"1378",3,42,106,"Amara Darboh","Seahawks","WR","Michigan",2017
+"1379",3,43,107,"Kendell Beckwith","Buccaneers","LB","Louisiana State",2017
+"1380",4,1,108,"Vince Biegel","Packers","LB","Wisconsin",2017
+"1381",4,2,109,"Jaleel Johnson","Vikings","DT","Iowa",2017
+"1382",4,3,110,"Dede Westbrook","Jaguars","WR","Oklahoma",2017
+"1383",4,4,111,"Tedric Thompson","Seahawks","DB","Colorado",2017
+"1384",4,5,112,"Eddie Jackson","Bears","DB","Alabama",2017
+"1385",4,6,113,"Rayshawn Jenkins","Chargers","DB","Miami (FL)",2017
+"1386",4,7,114,"Samaje Perine","Redskins","RB","Oklahoma",2017
+"1387",4,8,115,"Dorian Johnson","Cardinals"," G","Pittsburgh",2017
+"1388",4,9,116,"Carl Lawson","Bengals","LB","Auburn",2017
+"1389",4,10,117,"Josh Reynolds","Rams","WR","Texas A&M",2017
+"1390",4,12,118,"Mack Hollins","Eagles","WR","North Carolina",2017
+"1391",4,13,119,"Tarik Cohen","Bears","RB","North Carolina A&T",2017
+"1392",4,14,120,"Ben Gedeon","Vikings","LB","Michigan",2017
+"1393",4,15,121,"Joe Williams","49ers","RB","Utah",2017
+"1394",4,16,122,"Nico Siragusa","Ravens"," G","San Diego State",2017
+"1395",4,17,123,"Montae Nicholson","Redskins","DB","Michigan State",2017
+"1396",4,18,124,"Jalen Reeves-Maybin","Lions","LB","Tennessee",2017
+"1397",4,19,125,"Samson Ebukam","Rams","LB","Eastern Washington",2017
+"1398",4,20,126,"Howard Wilson","Browns","DB","Houston",2017
+"1399",4,21,127,"Michael Roberts","Lions","TE","Toledo",2017
+"1400",4,22,128,"Josh Malone","Bengals","WR","Tennessee",2017
+"1401",4,23,129,"David Sharpe","Raiders"," T","Florida",2017
+"1402",4,24,130,"Julie'n Davenport","Texans"," T","Bucknell",2017
+"1403",4,25,131,"Deatrich Wise","Patriots","DE","Arkansas",2017
+"1404",4,26,132,"Donnel Pumphrey","Eagles","RB","San Diego State",2017
+"1405",4,27,133,"Ryan Switzer","Cowboys","WR","North Carolina",2017
+"1406",4,28,134,"Jamaal Williams","Packers","RB","Brigham Young",2017
+"1407",4,29,135,"Joshua Dobbs","Steelers","QB","Tennessee",2017
+"1408",4,30,136,"Sean Harlow","Falcons"," G","Oregon State",2017
+"1409",4,31,137,"Zach Banner","Colts"," T","USC",2017
+"1410",4,32,138,"Ryan Glasgow","Bengals","DT","Michigan",2017
+"1411",4,33,139,"Jehu Chesson","Chiefs","WR","Michigan",2017
+"1412",4,34,140,"Wayne Gallman","Giants","RB","Clemson",2017
+"1413",4,35,141,"Chad Hansen","Jets","WR","California",2017
+"1414",4,36,142,"Carlos Watkins","Texans","DT","Clemson",2017
+"1415",4,37,143,"Marlon Mack","Colts","RB","South Florida",2017
+"1416",4,38,144,"Grover Stewart","Colts","DT","Albany State",2017
+"1417",5,1,145,"Jake Butt","Broncos","TE","Michigan",2017
+"1418",5,2,146,"George Kittle","49ers","TE","Iowa",2017
+"1419",5,3,147,"Jordan Morgan","Bears"," G","Kutztown (PA)",2017
+"1420",5,4,148,"Blair Brown","Jaguars","LB","Ohio",2017
+"1421",5,5,149,"Damontae Kazee","Falcons","DB","San Diego State",2017
+"1422",5,6,150,"Jordan Leggett","Jets","TE","Clemson",2017
+"1423",5,7,151,"Desmond King","Chargers","DB","Iowa",2017
+"1424",5,8,152,"Corn Elder","Panthers","DB","Miami (FL)",2017
+"1425",5,9,153,"Jake Elliott","Bengals"," K","Memphis",2017
+"1426",5,10,154,"Jeremy Sprinkle","Redskins","TE","Arkansas",2017
+"1427",5,11,155,"Jayon Brown","Titans","LB","UCLA",2017
+"1428",5,12,156,"Brian Hill","Falcons","RB","Wyoming",2017
+"1429",5,13,157,"Will Holden","Cardinals"," T","Vanderbilt",2017
+"1430",5,14,158,"Nate Hairston","Colts","DB","Temple",2017
+"1431",5,15,159,"Jermaine Eluemunor","Ravens"," G","Texas A&M",2017
+"1432",5,16,160,"Roderick Johnson","Browns"," T","Florida State",2017
+"1433",5,17,161,"Anthony Walker Jr.","Colts","LB","Northwestern",2017
+"1434",5,18,162,"Jeremy McNichols","Buccaneers","RB","Boise State",2017
+"1435",5,19,163,"Matt Milano","Bills","LB","Boston College",2017
+"1436",5,20,164,"Isaac Asiata","Dolphins"," G","Utah",2017
+"1437",5,21,165,"Jamal Agnew","Lions","DB","San Diego",2017
+"1438",5,22,166,"Shelton Gibson","Eagles","WR","West Virginia",2017
+"1439",5,23,167,"Avery Moss","Giants","DE","Youngstown State",2017
+"1440",5,24,168,"Marquel Lee","Raiders","LB","Wake Forest",2017
+"1441",5,25,169,"Treston Decoud","Texans","DB","Oregon State",2017
+"1442",5,27,170,"Rodney Adams","Vikings","WR","South Florida",2017
+"1443",5,28,171,"Nathan Peterman","Bills","QB","Pittsburgh",2017
+"1444",5,29,172,"Isaiah McKenzie","Broncos","WR","Georgia",2017
+"1445",5,30,173,"Brian Allen","Steelers","DB","Utah",2017
+"1446",5,31,174,"Eric Saubert","Falcons","TE","Drake",2017
+"1447",5,32,175,"DeAngelo Yancey","Packers","WR","Purdue",2017
+"1448",5,33,176,"J.J. Dielman","Bengals"," C","Utah",2017
+"1449",5,34,177,"Trent Taylor","49ers","WR","Louisiana Tech",2017
+"1450",5,35,178,"Davon Godchaux","Dolphins","DT","Louisiana State",2017
+"1451",5,36,179,"T.J. Logan","Cardinals","RB","North Carolina",2017
+"1452",5,37,180,"Danny Isidora","Vikings"," G","Miami (FL)",2017
+"1453",5,38,181,"Dylan Donahue","Jets","DE","West Georgia",2017
+"1454",5,39,182,"Aaron Jones","Packers","RB","Texas-El Paso",2017
+"1455",5,40,183,"Ukeme Eligwe","Chiefs","LB","Georgia Southern",2017
+"1456",5,41,184,"Nate Gerry","Eagles","DB","Nebraska",2017
+"1457",6,1,185,"Caleb Brantley","Browns","DT","Florida",2017
+"1458",6,2,186,"Chuck Clark","Ravens","DB","Virginia Tech",2017
+"1459",6,3,187,"Michael Tyson","Seahawks","DB","Cincinnati",2017
+"1460",6,4,188,"Elijah McGuire","Jets","RB","Louisiana-Lafayette",2017
+"1461",6,5,189,"Tanzel Smart","Rams","DT","Tulane",2017
+"1462",6,6,190,"Sam Tevi","Chargers"," T","Utah",2017
+"1463",6,7,191,"Xavier Woods","Cowboys","DB","Louisiana Tech",2017
+"1464",6,8,192,"Alex Armah","Panthers","RB","West Georgia",2017
+"1465",6,9,193,"Jordan Evans","Bengals","LB","Oklahoma",2017
+"1466",6,10,194,"Vincent Taylor","Dolphins","DT","Oklahoma State",2017
+"1467",6,11,195,"Tanner Vallejo","Bills","LB","Boise State",2017
+"1468",6,12,196,"Al-Quadin Muhammad","Saints","DE","Miami (FL)",2017
+"1469",6,13,197,"Jeremy Clark","Jets","DB","Michigan",2017
+"1470",6,14,198,"D.J. Jones","49ers","DT","Mississippi",2017
+"1471",6,15,199,"Chase Roullier","Redskins"," C","Wyoming",2017
+"1472",6,16,200,"Adam Bisnowaty","Giants"," T","Pittsburgh",2017
+"1473",6,17,201,"Bucky Hodges","Vikings","TE","Virginia Tech",2017
+"1474",6,18,202,"Pita Taumoepenu","49ers","LB","Utah",2017
+"1475",6,19,203,"De'Angelo Henderson","Broncos","RB","Coastal Carolina",2017
+"1476",6,20,204,"Derrick Jones","Jets","DB","Mississippi",2017
+"1477",6,21,205,"Jeremiah Ledbetter","Lions","DE","Arkansas",2017
+"1478",6,22,206,"Sam Rogers","Rams","RB","Virginia Tech",2017
+"1479",6,23,207,"Brandon Wilson","Bengals","RB","Houston",2017
+"1480",6,24,208,"Rudy Ford","Cardinals","DB","Auburn",2017
+"1481",6,25,209,"Robert Davis","Redskins","WR","Georgia State",2017
+"1482",6,26,210,"Justin Senior","Seahawks"," T","Mississippi State",2017
+"1483",6,28,211,"Conor McDermott","Patriots"," T","UCLA",2017
+"1484",6,29,212,"Kofi Amichia","Packers"," C","South Florida",2017
+"1485",6,30,213,"Colin Holba","Steelers"," C","Louisville",2017
+"1486",6,31,214,"Elijah Qualls","Eagles","DT","Washington",2017
+"1487",6,32,215,"Brad Kaaya","Lions","QB","Miami (FL)",2017
+"1488",6,33,216,"Marquez White","Cowboys","DB","Florida State",2017
+"1489",6,34,217,"Corey Levin","Titans"," G","Tennessee-Chattanooga",2017
+"1490",6,35,218,"Leon McQuay III","Chiefs","DB","USC",2017
+"1491",7,1,219,"Stacy Coley","Vikings","WR","Miami (FL)",2017
+"1492",7,2,220,"Ifeadi Odenigbo","Vikings","DE","Northwestern",2017
+"1493",7,3,221,"Shalom Luani","Raiders","DB","Washington State",2017
+"1494",7,4,222,"Jalen Myrick","Jaguars","DB","Minnesota",2017
+"1495",7,5,223,"Stevie Tu'ikolovatu","Buccaneers","DT","USC",2017
+"1496",7,6,224,"Zane Gonzalez","Browns"," K","Arizona State",2017
+"1497",7,7,225,"Isaac Rochell","Chargers","DT","Notre Dame",2017
+"1498",7,8,226,"David Moore","Seahawks","WR","East Central (OK)",2017
+"1499",7,9,227,"Josh Carraway","Titans","LB","Texas Christian",2017
+"1500",7,10,228,"Joey Ivie","Cowboys","DT","Florida",2017
+"1501",7,11,229,"Adrian Colbert","49ers","DB","Miami (FL)",2017
+"1502",7,12,230,"Josh Harvey-Clemons","Redskins","DB","Louisville",2017
+"1503",7,13,231,"Jylan Ware","Raiders"," T","Alabama State",2017
+"1504",7,14,232,"Elijah Lee","Vikings","LB","Kansas State",2017
+"1505",7,15,233,"Harrison Butker","Panthers"," K","Georgia Tech",2017
+"1506",7,16,234,"Ejuan Price","Rams","DE","Pittsburgh",2017
+"1507",7,17,235,"Joshua Holsey","Redskins","DB","Auburn",2017
+"1508",7,18,236,"Brad Seaton","Titans"," T","Villanova",2017
+"1509",7,19,237,"Isaiah Ford","Dolphins","WR","Virginia Tech",2017
+"1510",7,20,238,"Devante Mays","Packers","RB","Utah State",2017
+"1511",7,21,239,"Noah Brown","Cowboys","WR","Ohio State",2017
+"1512",7,22,240,"Marquez Williams","Jaguars","RB","Miami (OH)",2017
+"1513",7,23,241,"Khalfani Muhammad","Titans","RB","California",2017
+"1514",7,24,242,"Elijah Hood","Raiders","RB","North Carolina",2017
+"1515",7,25,243,"Kyle Fuller","Texans"," C","Baylor",2017
+"1516",7,26,244,"Treyvon Hester","Raiders","DT","Toledo",2017
+"1517",7,27,245,"Jack Tocho","Vikings","DB","North Carolina State",2017
+"1518",7,28,246,"Jordan Carrell","Cowboys","DT","Colorado",2017
+"1519",7,29,247,"Malachi Dupre","Packers","WR","Louisiana State",2017
+"1520",7,30,248,"Keion Adams","Steelers","LB","Western Michigan",2017
+"1521",7,31,249,"Chris Carson","Seahawks","RB","Oklahoma State",2017
+"1522",7,32,250,"Pat O'Connor","Lions","DE","Eastern Michigan",2017
+"1523",7,33,251,"Mason Schreck","Bengals","TE","Buffalo",2017
+"1524",7,34,252,"Matthew Dayes","Browns","RB","North Carolina State",2017
+"1525",7,35,253,"Chad Kelly","Broncos","QB","Mississippi",2017
+"1526",1,1,1,"Baker Mayfield","Browns","QB","Oklahoma",2018
+"1527",1,2,2,"Saquon Barkley","Giants","RB","Penn State",2018
+"1528",1,3,3,"Sam Darnold","Jets","QB","USC",2018
+"1529",1,4,4,"Denzel Ward","Browns","DB","Ohio State",2018
+"1530",1,5,5,"Bradley Chubb","Broncos","DE","North Carolina State",2018
+"1531",1,6,6,"Quenton Nelson","Colts"," G","Notre Dame",2018
+"1532",1,7,7,"Josh Allen","Bills","QB","Wyoming",2018
+"1533",1,8,8,"Roquan Smith","Bears","LB","Georgia",2018
+"1534",1,9,9,"Mike McGlinchey","49ers"," T","Notre Dame",2018
+"1535",1,10,10,"Josh Rosen","Cardinals","QB","UCLA",2018
+"1536",1,11,11,"Minkah Fitzpatrick","Dolphins","DB","Alabama",2018
+"1537",1,12,12,"Vita Vea","Buccaneers","DT","Washington",2018
+"1538",1,13,13,"Da'Ron Payne","Redskins","DT","Alabama",2018
+"1539",1,14,14,"Marcus Davenport","Saints","DE","Texas-San Antonio",2018
+"1540",1,15,15,"Kolton Miller","Raiders"," T","UCLA",2018
+"1541",1,16,16,"Tremaine Edmunds","Bills","LB","Virginia Tech",2018
+"1542",1,17,17,"Derwin James","Chargers","DB","Florida State",2018
+"1543",1,18,18,"Jaire Alexander","Packers","DB","Louisville",2018
+"1544",1,19,19,"Leighton Vander Esch","Cowboys","LB","Boise State",2018
+"1545",1,20,20,"Frank Ragnow","Lions"," C","Arkansas",2018
+"1546",1,21,21,"Billy Price","Bengals"," C","Ohio State",2018
+"1547",1,22,22,"Rashaan Evans","Titans","LB","Alabama",2018
+"1548",1,23,23,"Isaiah Wynn","Patriots"," G","Georgia",2018
+"1549",1,24,24,"D.J. Moore","Panthers","WR","Maryland",2018
+"1550",1,25,25,"Hayden Hurst","Ravens","TE","South Carolina",2018
+"1551",1,26,26,"Calvin Ridley","Falcons","WR","Alabama",2018
+"1552",1,27,27,"Rashaad Penny","Seahawks","RB","San Diego State",2018
+"1553",1,28,28,"Terrell Edmunds","Steelers","DB","Virginia Tech",2018
+"1554",1,29,29,"Taven Bryan","Jaguars","DT","Florida",2018
+"1555",1,30,30,"Mike Hughes","Vikings","DB","Central Florida",2018
+"1556",1,31,31,"Sony Michel","Patriots","RB","Georgia",2018
+"1557",1,32,32,"Lamar Jackson","Ravens","QB","Louisville",2018
+"1558",2,1,33,"Austin Corbett","Browns"," C","Nevada",2018
+"1559",2,2,34,"Will Hernandez","Giants"," G","Texas-El Paso",2018
+"1560",2,3,35,"Nick Chubb","Browns","RB","Georgia",2018
+"1561",2,4,36,"Darius Leonard","Colts","LB","South Carolina State",2018
+"1562",2,5,37,"Braden Smith","Colts"," G","Auburn",2018
+"1563",2,6,38,"Ronald Jones","Buccaneers","RB","USC",2018
+"1564",2,7,39,"James Daniels","Bears"," C","Iowa",2018
+"1565",2,8,40,"Courtland Sutton","Broncos","WR","Southern Methodist",2018
+"1566",2,9,41,"Harold Landry","Titans","DE","Boston College",2018
+"1567",2,10,42,"Mike Gesicki","Dolphins","TE","Penn State",2018
+"1568",2,11,43,"Kerryon Johnson","Lions","RB","Auburn",2018
+"1569",2,12,44,"Dante Pettis","49ers","WR","Washington",2018
+"1570",2,13,45,"Joshua Jackson","Packers","DB","Iowa",2018
+"1571",2,14,46,"Breeland Speaks","Chiefs","DT","Mississippi",2018
+"1572",2,15,47,"Christian Kirk","Cardinals","WR","Texas A&M",2018
+"1573",2,16,48,"Uchenna Nwosu","Chargers","LB","USC",2018
+"1574",2,17,49,"Dallas Goedert","Eagles","TE","South Dakota State",2018
+"1575",2,18,50,"Connor Williams","Cowboys"," T","Texas",2018
+"1576",2,19,51,"Anthony Miller","Bears","WR","Memphis",2018
+"1577",2,20,52,"Kemoko Turay","Colts","LB","Rutgers",2018
+"1578",2,21,53,"M.J. Stewart","Buccaneers","DB","North Carolina",2018
+"1579",2,22,54,"Jessie Bates","Bengals","DB","Wake Forest",2018
+"1580",2,23,55,"Donte Jackson","Panthers","DB","Louisiana State",2018
+"1581",2,24,56,"Duke Dawson","Patriots","DB","Florida",2018
+"1582",2,25,57,"P.J. Hall","Raiders","DT","Sam Houston State",2018
+"1583",2,26,58,"Isaiah Oliver","Falcons","DB","Colorado",2018
+"1584",2,27,59,"Derrius Guice","Redskins","RB","Louisiana State",2018
+"1585",2,28,60,"James Washington","Steelers","WR","Oklahoma State",2018
+"1586",2,29,61,"D.J. Chark","Jaguars","WR","Louisiana State",2018
+"1587",2,30,62,"Brian O'Neill","Vikings"," T","Pittsburgh",2018
+"1588",2,31,63,"Carlton Davis","Buccaneers","DB","Auburn",2018
+"1589",2,32,64,"Tyquan Lewis","Colts","DE","Ohio State",2018
+"1590",3,1,65,"Brandon Parker","Raiders"," T","North Carolina A&T",2018
+"1591",3,2,66,"Lorenzo Carter","Giants","DE","Georgia",2018
+"1592",3,3,67,"Chad Thomas","Browns","DE","Miami (FL)",2018
+"1593",3,4,68,"Justin Reid","Texans","DB","Stanford",2018
+"1594",3,5,69,"B.J. Hill","Giants","DT","North Carolina State",2018
+"1595",3,6,70,"Fred Warner","49ers","LB","Brigham Young",2018
+"1596",3,7,71,"Royce Freeman","Broncos","RB","Oregon",2018
+"1597",3,8,72,"Nathan Shepherd","Jets","DT","Fort Hays State",2018
+"1598",3,9,73,"Jerome Baker","Dolphins","LB","Ohio State",2018
+"1599",3,10,74,"Geron Christian","Redskins"," T","Louisville",2018
+"1600",3,11,75,"Derrick Nnadi","Chiefs","DT","Florida State",2018
+"1601",3,12,76,"Mason Rudolph","Steelers","QB","Oklahoma State",2018
+"1602",3,13,77,"Sam Hubbard","Bengals","DE","Ohio State",2018
+"1603",3,14,78,"Malik Jefferson","Bengals","LB","Texas",2018
+"1604",3,15,79,"Rasheem Green","Seahawks","DE","USC",2018
+"1605",3,16,80,"Martinas Rankin","Texans"," C","Mississippi State",2018
+"1606",3,17,81,"Michael Gallup","Cowboys","WR","Colorado State",2018
+"1607",3,18,82,"Tracy Walker","Lions","DB","Louisiana-Lafayette",2018
+"1608",3,19,83,"Orlando Brown","Ravens"," T","Oklahoma",2018
+"1609",3,20,84,"Justin Jones","Chargers","DT","North Carolina State",2018
+"1610",3,21,85,"Rashaan Gaulden","Panthers","DB","Tennessee",2018
+"1611",3,22,86,"Mark Andrews","Ravens","TE","Oklahoma",2018
+"1612",3,23,87,"Arden Key","Raiders","DE","Louisiana State",2018
+"1613",3,24,88,"Oren Burks","Packers","LB","Vanderbilt",2018
+"1614",3,25,89,"Joseph Noteboom","Rams"," T","Texas Christian",2018
+"1615",3,26,90,"Deadrin Senat","Falcons","DT","South Florida",2018
+"1616",3,27,91,"Tre'Quan Smith","Saints","WR","Central Florida",2018
+"1617",3,28,92,"Chukwuma Okorafor","Steelers"," T","Western Michigan",2018
+"1618",3,29,93,"Ronnie Harrison","Jaguars","DB","Alabama",2018
+"1619",3,30,94,"Alex Cappa","Buccaneers"," T","Humboldt State",2018
+"1620",3,31,95,"Tarvarius Moore","49ers","DB","Southern Mississippi",2018
+"1621",3,32,96,"Harrison Phillips","Bills","DT","Stanford",2018
+"1622",3,33,97,"Mason Cole","Cardinals"," C","Michigan",2018
+"1623",3,34,98,"Jordan Akins","Texans","TE","Central Florida",2018
+"1624",3,35,99,"Isaac Yiadom","Broncos","DB","Boston College",2018
+"1625",3,36,100,"Dorian O'Daniel","Chiefs","LB","Clemson",2018
+"1626",4,1,101,"Ian Thomas","Panthers","TE","Indiana",2018
+"1627",4,2,102,"Jalyn Holmes","Vikings","DE","Ohio State",2018
+"1628",4,3,103,"Keke Coutee","Texans","WR","Texas Tech",2018
+"1629",4,4,104,"Nyheim Hines","Colts","RB","North Carolina State",2018
+"1630",4,5,105,"Antonio Callaway","Browns","WR","Florida",2018
+"1631",4,6,106,"Josey Jewell","Broncos","LB","Iowa",2018
+"1632",4,7,107,"Chris Herndon","Jets","TE","Miami (FL)",2018
+"1633",4,8,108,"Kyle Lauletta","Giants","QB","Richmond",2018
+"1634",4,9,109,"Troy Apke","redskins","DB","Penn State",2018
+"1635",4,10,110,"Nick Nelson","Raiders","DB","Wisconsin",2018
+"1636",4,11,111,"Brian Allen","Rams"," C","Michigan State",2018
+"1637",4,12,112,"Mark Walton","Bengals","RB","Miami (FL)",2018
+"1638",4,13,113,"DaeSean Hamilton","Broncos","WR","Penn State",2018
+"1639",4,14,114,"Da'Shawn Hand","Lions","DE","Alabama",2018
+"1640",4,15,115,"Joel Iyiegbuniwe","Bears","LB","Western Kentucky",2018
+"1641",4,16,116,"Dorance Armstrong","Cowboys","DE","Kansas",2018
+"1642",4,17,117,"Jordan Whitehead","Buccaneers","DB","Pittsburgh",2018
+"1643",4,18,118,"Anthony Averett","Ravens","DB","Alabama",2018
+"1644",4,19,119,"Kyzir White","Chargers","DB","West Virginia",2018
+"1645",4,20,120,"Will Dissly","Seahawks","TE","Washington",2018
+"1646",4,21,121,"Taron Johnson","Bills","DB","Weber State",2018
+"1647",4,22,122,"Kenny Young","Ravens","LB","UCLA",2018
+"1648",4,23,123,"Durham Smythe","Dolphins","TE","Notre Dame",2018
+"1649",4,24,124,"Armani Watts","Chiefs","DB","Texas A&M",2018
+"1650",4,25,125,"Avonte Maddox","Eagles","DB","Pittsburgh",2018
+"1651",4,26,126,"Ito Smith","Falcons","RB","Southern Mississippi",2018
+"1652",4,27,127,"Rick Leonard","Saints"," T","Florida State",2018
+"1653",4,28,128,"Kentavius Street","49ers","DT","North Carolina State",2018
+"1654",4,29,129,"Will Richardson","Jaguars"," T","North Carolina State",2018
+"1655",4,30,130,"Josh Sweat","Eagles","DE","Florida State",2018
+"1656",4,31,131,"Kalen Ballage","Dolphins","RB","Arizona State",2018
+"1657",4,32,132,"Jaleel Scott","Ravens","WR","New Mexico State",2018
+"1658",4,33,133,"J'Mon Moore","Packers","WR","Missouri",2018
+"1659",4,34,134,"Chase Edmonds","Cardinals","RB","Fordham",2018
+"1660",4,35,135,"John Franklin-Meyers","Rams","DE","Stephen F. Austin",2018
+"1661",4,36,136,"Marquis Haynes","Panthers","LB","Mississippi",2018
+"1662",4,37,137,"Dalton Schultz","Cowboys","TE","Stanford",2018
+"1663",5,1,138,"Cole Madison","Packers"," T","Washington State",2018
+"1664",5,2,139,"R.J. McIntosh","Giants","DT","Miami (FL)",2018
+"1665",5,3,140,"Maurice Hurst","Raiders","DT","Michigan",2018
+"1666",5,4,141,"Shaquem Griffin","Seahawks","LB","Central Florida",2018
+"1667",5,5,142,"D.J. Reed","49ers","DB","Kansas State",2018
+"1668",5,6,143,"Ja'Whaun Bentley","Patriots","LB","Purdue",2018
+"1669",5,7,144,"Justin Watson","Buccaneers","WR","Pennsylvania",2018
+"1670",5,8,145,"Bilal Nichols","Bears","DT","Delaware",2018
+"1671",5,9,146,"Tre Flowers","Seahawks","DB","Oklahoma State",2018
+"1672",5,10,147,"Micah Kiser","Rams","LB","Virginia",2018
+"1673",5,11,148,"Marcus Allen","Steelers","DB","Penn State",2018
+"1674",5,12,149,"Michael Dickson","Seahawks"," P","Texas",2018
+"1675",5,13,150,"Genard Avery","Browns","LB","Memphis",2018
+"1676",5,14,151,"Davontae Harris","Bengals","DB","Illinois State",2018
+"1677",5,15,152,"Dane Cruikshank","Titans","DB","Arizona",2018
+"1678",5,16,153,"Tyrell Crosby","Lions"," T","Oregon",2018
+"1679",5,17,154,"Siran Neal","Bills","DB","Jackson State",2018
+"1680",5,18,155,"Scott Quessenberry","Chargers"," C","UCLA",2018
+"1681",5,19,156,"Troy Fumagalli","Broncos","TE","Wisconsin",2018
+"1682",5,20,157,"Tyler Conklin","Vikings","TE","Central Michigan",2018
+"1683",5,21,158,"Andrew Brown","Bengals","DT","Virginia",2018
+"1684",5,22,159,"Daurice Fountain","Colts","WR","Northern Iowa",2018
+"1685",5,23,160,"Ogbonnia Okoronkwo","Rams","DE","Oklahoma",2018
+"1686",5,24,161,"Jermaine Carter","Panthers","LB","Maryland",2018
+"1687",5,25,162,"Jordan Lasley","Ravens","WR","UCLA",2018
+"1688",5,26,163,"Tim Settle","Redskins","DT","Virginia Tech",2018
+"1689",5,27,164,"Natrell Jamerson","Saints","DB","Wisconsin",2018
+"1690",5,28,165,"Jaylen Samuels","Steelers","TE","North Carolina State",2018
+"1691",5,29,166,"Wyatt Teller","Bills"," G","Virginia Tech",2018
+"1692",5,30,167,"Daniel Carlson","Vikings"," K","Auburn",2018
+"1693",5,31,168,"Jamarco Jones","Seahawks"," T","Ohio State",2018
+"1694",5,32,169,"Jordan Wilkins","Colts","RB","Mississippi",2018
+"1695",5,33,170,"Darius Phillips","Bengals","DB","Western Michigan",2018
+"1696",5,34,171,"Mike White","Cowboys","QB","Western Kentucky",2018
+"1697",5,35,172,"JK Scott","Packers"," P","Alabama",2018
+"1698",5,36,173,"Johnny Townsend","Raiders"," P","Florida",2018
+"1699",5,37,174,"Marquez Valdes-Scantling","Packers","WR","South Florida",2018
+"1700",6,1,175,"Damion Ratley","Browns","WR","Texas A&M",2018
+"1701",6,2,176,"John Kelly","Rams","RB","Tennessee",2018
+"1702",6,3,177,"Duke Ejiofor","Texans","DE","Wake Forest",2018
+"1703",6,4,178,"Christian Sam","Patriots","LB","Arizona State",2018
+"1704",6,5,179,"Parry Nickerson","Jets","DB","Tulane",2018
+"1705",6,6,180,"Foley Fatukasi","Jets","DT","Connecticut",2018
+"1706",6,7,181,"Kylie Fitts","Bears","DE","Utah",2018
+"1707",6,8,182,"Chris Campbell","Cardinals","DB","Penn State",2018
+"1708",6,9,183,"Sam Jones","Broncos"," G","Arizona State",2018
+"1709",6,10,184,"Marcell Harris","49ers","DB","Florida",2018
+"1710",6,11,185,"Deon Cain","Colts","WR","Clemson",2018
+"1711",6,12,186,"Jacob Martin","Seahawks","DE","Temple",2018
+"1712",6,13,187,"Ray-Ray McCloud","Bills","WR","Clemson",2018
+"1713",6,14,188,"Simeon Thomas","Browns","DB","Louisiana-Lafayette",2018
+"1714",6,15,189,"Kamrin Moore","Saints","DB","Boston College",2018
+"1715",6,16,190,"DeShon Elliott","Ravens","DB","Texas",2018
+"1716",6,17,191,"Dylan Cantrell","Chargers","WR","Texas Tech",2018
+"1717",6,18,192,"Jamil Demby","Rams"," G","Maine",2018
+"1718",6,19,193,"Chris Covington","Cowboys","LB","Indiana",2018
+"1719",6,20,194,"Russell Gage","Falcons","WR","Louisiana State",2018
+"1720",6,21,195,"Sebastian Joseph","Rams","DT","Rutgers",2018
+"1721",6,22,196,"Tremon Smith","Chiefs","DB","Central Arkansas",2018
+"1722",6,23,197,"Shaun Dion Hamilton","Redskins","LB","Alabama",2018
+"1723",6,24,198,"Kahlil McKenzie","Chiefs","DT","Tennessee",2018
+"1724",6,25,199,"Luke Falk","Titans","QB","Washington State",2018
+"1725",6,26,200,"Foyesade Oluokun","Falcons","LB","Yale",2018
+"1726",6,27,201,"Boston Scott","Saints","RB","Louisiana Tech",2018
+"1727",6,28,202,"Jack Cichy","Buccaneers","LB","Wisconsin",2018
+"1728",6,29,203,"Tanner Lee","Jaguars","QB","Nebraska",2018
+"1729",6,30,204,"Trenton Cannon","Jets","RB","Virginia State",2018
+"1730",6,31,205,"Trevon Young","Rams","DE","Louisville",2018
+"1731",6,32,206,"Matt Pryor","Eagles"," T","Texas Christian",2018
+"1732",6,33,207,"Equanimeous St. Brown","Packers","WR","Notre Dame",2018
+"1733",6,34,208,"Cedrick Wilson","Cowboys","WR","Boise State",2018
+"1734",6,35,209,"Cornell Armstrong","Dolphins","DB","Southern Mississippi",2018
+"1735",6,36,210,"Braxton Berrios","Patriots","WR","Miami (FL)",2018
+"1736",6,37,211,"Jordan Thomas","Texans","TE","Mississippi State",2018
+"1737",6,38,212,"Greg Senat","Ravens"," T","Wagner",2018
+"1738",6,39,213,"Colby Gossett","Vikings"," G","Appalachian State",2018
+"1739",6,40,214,"Peter Kalambayi","Texans","LB","Stanford",2018
+"1740",6,41,215,"Bradley Bozeman","Ravens"," C","Alabama",2018
+"1741",6,42,216,"Azeem Victor","Raiders","LB","Washington",2018
+"1742",6,43,217,"Keishawn Bierria","Broncos","LB","Washington",2018
+"1743",6,44,218,"Ade Aruna","Vikings","DE","Tulane",2018
+"1744",7,1,219,"Danny Etling","Patriots","QB","Louisiana State",2018
+"1745",7,2,220,"Alex McGough","Seahawks","QB","Florida International",2018
+"1746",7,3,221,"Matthew Adams","Colts","LB","Houston",2018
+"1747",7,4,222,"Jermaine Kelly","Texans","DB","San Jose State",2018
+"1748",7,5,223,"Jullian Taylor","49ers","DT","Temple",2018
+"1749",7,6,224,"Javon Wims","Bears","WR","Georgia",2018
+"1750",7,7,225,"Devante Downs","Vikings","LB","California",2018
+"1751",7,8,226,"David Williams","Broncos","RB","Arkansas",2018
+"1752",7,9,227,"Quentin Poling","Dolphins","LB","Ohio",2018
+"1753",7,10,228,"Marcell Ateman","Raiders","WR","Oklahoma State",2018
+"1754",7,11,229,"Jason Sanders","Dolphins"," K","New Mexico",2018
+"1755",7,12,230,"Leon Jacobs","Jaguars","LB","Wisconsin",2018
+"1756",7,13,231,"Travin Howard","Rams","LB","Texas Christian",2018
+"1757",7,14,232,"James Looney","Packers","DT","California",2018
+"1758",7,15,233,"Jordan Mailata","Eagles"," T","None",2018
+"1759",7,16,234,"Andre Smith","Panthers","LB","North Carolina",2018
+"1760",7,17,235,"Zaire Franklin","Colts","LB","Syracuse",2018
+"1761",7,18,236,"Bo Scarbrough","Cowboys","RB","Alabama",2018
+"1762",7,19,237,"Nick Bawdon","Lions","RB","San Diego State",2018
+"1763",7,20,238,"Zach Sieler","Ravens","DE","Ferris State",2018
+"1764",7,21,239,"Hunter Bradley","Packers"," C","Mississippi State",2018
+"1765",7,22,240,"Richie James","49ers","WR","Middle Tennessee",2018
+"1766",7,23,241,"Greg Stroman","Redskins","DB","Virginia Tech",2018
+"1767",7,24,242,"Kendrick Norton","Panthers","DT","Miami (FL)",2018
+"1768",7,25,243,"Keion Crossen","Patriots","DB","Western Carolina",2018
+"1769",7,26,244,"Justin Lawler","Rams","DE","Southern Methodist",2018
+"1770",7,27,245,"Will Clapp","Saints"," C","Louisiana State",2018
+"1771",7,28,246,"Joshua Frazier","Steelers","DT","Alabama",2018
+"1772",7,29,247,"Logan Cooke","Jaguars"," P","Mississippi State",2018
+"1773",7,30,248,"Kendall Donnerson","Packers","LB","Southeast Missouri State",2018
+"1774",7,31,249,"Logan Woodside","Bengals","QB","Toledo",2018
+"1775",7,32,250,"Ryan Izzo","Patriots","TE","Florida State",2018
+"1776",7,33,251,"Justin Jackson","Chargers","RB","Northwestern",2018
+"1777",7,34,252,"Rod Taylor","Bengals"," G","Mississippi",2018
+"1778",7,35,253,"Auden Tate","Bengals","WR","Florida State",2018
+"1779",7,36,254,"Korey Cunningham","Cardinals"," T","Cincinnati",2018
+"1780",7,37,255,"Austin Proehl","Bills","WR","North Carolina",2018
+"1781",7,38,256,"Trey Quinn","Redskins","WR","Southern Methodist",2018
+"1782",1,1,1,"Kyler Murray","Cardinals","QB","Oklahoma",2019
+"1783",1,2,2,"Nick Bosa","49ers","DE","Ohio State",2019
+"1784",1,3,3,"Quinnen Williams","Jets","DT","Alabama",2019
+"1785",1,4,4,"Clelin Ferrell","Raiders","DE","Clemson",2019
+"1786",1,5,5,"Devin White","Buccaneers","LB","Louisiana State",2019
+"1787",1,6,6,"Daniel Jones","Giants","QB","Duke",2019
+"1788",1,7,7,"Josh Allen","Jaguars","LB","Kentucky",2019
+"1789",1,8,8,"T.J. Hockenson","Lions","TE","Iowa",2019
+"1790",1,9,9,"Ed Oliver","Bills","DT","Houston",2019
+"1791",1,10,10,"Devin Bush","Steelers","LB","Michigan",2019
+"1792",1,11,11,"Jonah Williams","Bengals"," T","Alabama",2019
+"1793",1,12,12,"Rashan Gary","Packers","DE","Michigan",2019
+"1794",1,13,13,"Christian Wilkins","Dolphins","DT","Clemson",2019
+"1795",1,14,14,"Chris Lindstrom","Falcons"," G","Boston College",2019
+"1796",1,15,15,"Dwayne Haskins","Redskins","QB","Ohio State",2019
+"1797",1,16,16,"Brian Burns","Panthers","LB","Florida State",2019
+"1798",1,17,17,"Dexter Lawrence","Giants","DT","Clemson",2019
+"1799",1,18,18,"Garrett Bradbury","Vikings"," C","North Carolina State",2019
+"1800",1,19,19,"Jeffery Simmons","Titans","DT","Mississippi State",2019
+"1801",1,20,20,"Noah Fant","Broncos","TE","Iowa",2019
+"1802",1,21,21,"Darnell Savage, Jr.","Packers","DB","Maryland",2019
+"1803",1,22,22,"Andre Dillard","Eagles"," T","Washington State",2019
+"1804",1,23,23,"Tytus Howard","Texans"," T","Alabama State",2019
+"1805",1,24,24,"Josh Jacobs","Raiders","RB","Alabama",2019
+"1806",1,25,25,"Marquise Brown","Ravens","WR","Oklahoma",2019
+"1807",1,26,26,"Montez Sweat","Redskins","DE","Mississippi State",2019
+"1808",1,27,27,"Johnathan Abram","Raiders","DB","Mississippi State",2019
+"1809",1,28,28,"Jerry Tillery","Chargers","DT","Notre Dame",2019
+"1810",1,29,29,"L.J. Collier","Seahawks","DE","Texas Christian",2019
+"1811",1,30,30,"Deandre Baker","Giants","DB","Georgia",2019
+"1812",1,31,31,"Kaleb McGary","Falcons"," T","Washington",2019
+"1813",1,32,32,"N'Keal Harry","Patriots","WR","Arizona State",2019
+"1814",2,1,33,"Byron Murphy","Cardinals","DB","Washington",2019
+"1815",2,2,34,"Rock Ya-Sin","Colts","DB","Temple",2019
+"1816",2,3,35,"Jawaan Taylor","Jaguars"," T","Florida",2019
+"1817",2,4,36,"Deebo Samuel","49ers","WR","South Carolina",2019
+"1818",2,5,37,"Greg Little","Panthers"," T","Mississippi",2019
+"1819",2,6,38,"Cody Ford","Bills"," G","Oklahoma",2019
+"1820",2,7,39,"Sean Bunting","Buccaneers","DB","Central Michigan",2019
+"1821",2,8,40,"Trayvon Mullen","Raiders","DB","Clemson",2019
+"1822",2,9,41,"Dalton Risner","Broncos"," T","Kansas State",2019
+"1823",2,10,42,"Drew Lock","Broncos","QB","Missouri",2019
+"1824",2,11,43,"Jahlani Tavai","Lions","LB","Hawaii",2019
+"1825",2,12,44,"Elgton Jenkins","Packers"," C","Mississippi State",2019
+"1826",2,13,45,"Joejuan Williams","Patriots","DB","Vanderbilt",2019
+"1827",2,14,46,"Greedy Williams","Browns","DB","Louisiana State",2019
+"1828",2,15,47,"Marquise Blair","Seahawks","DB","Utah",2019
+"1829",2,16,48,"Erik McCoy","Saints"," C","Texas A&M",2019
+"1830",2,17,49,"Ben Banogu","Colts","LB","Texas Christian",2019
+"1831",2,18,50,"Irv Smith Jr.","Vikings","TE","Alabama",2019
+"1832",2,19,51,"A.J. Brown","Titans","WR","Mississippi",2019
+"1833",2,20,52,"Drew Sample","Bengals","TE","Washington",2019
+"1834",2,21,53,"Miles Sanders","Eagles","RB","Penn State",2019
+"1835",2,22,54,"Lonnie Johnson","Texans","DB","Kentucky",2019
+"1836",2,23,55,"Max Scharping","Texans"," T","Northern Illinois",2019
+"1837",2,24,56,"Mecole Hardman","Chiefs","WR","Georgia",2019
+"1838",2,25,57,"JJ Arcega-Whiteside","Eagles","WR","Stanford",2019
+"1839",2,26,58,"Trysten Hill","Cowboys","DT","Central Florida",2019
+"1840",2,27,59,"Parris Campbell","Colts","WR","Ohio State",2019
+"1841",2,28,60,"Nasir Adderley","Chargers","DB","Delaware",2019
+"1842",2,29,61,"Taylor Rapp","Rams","DB","Washington",2019
+"1843",2,30,62,"Andy Isabella","Cardinals","WR","Massachusetts",2019
+"1844",2,31,63,"Juan Thornhill","Chiefs","DB","Virginia",2019
+"1845",2,32,64,"D.K. Metcalf","Seahawks","WR","Mississippi",2019
+"1846",3,1,65,"Zach Allen","Cardinals","DE","Boston College",2019
+"1847",3,2,66,"Diontae Johnson","Steelers","WR","Toledo",2019
+"1848",3,3,67,"Jalen Hurd","49ers","WR","Baylor",2019
+"1849",3,4,68,"Jachai Polite","Jets","DE","Florida",2019
+"1850",3,5,69,"Josh Oliver","Jaguars","TE","San Jose State",2019
+"1851",3,6,70,"Darrell Henderson","Rams","RB","Memphis",2019
+"1852",3,7,71,"Dre'Mont Jones","Broncos","DT","Ohio State",2019
+"1853",3,8,72,"Germaine Pratt","Bengals","LB","North Carolina State",2019
+"1854",3,9,73,"David Montgomery","Bears","RB","Iowa State",2019
+"1855",3,10,74,"Devin Singletary","Bills","RB","Florida Atlantic",2019
+"1856",3,11,75,"Jace Sternberger","Packers","TE","Texas A&M",2019
+"1857",3,12,76,"Terry McLaurin","Redskins","WR","Ohio State",2019
+"1858",3,13,77,"Chase Winovich","Patriots","LB","Michigan",2019
+"1859",3,14,78,"Michael Deiter","Dolphins"," G","Wisconsin",2019
+"1860",3,15,79,"David Long","Rams","DB","Michigan",2019
+"1861",3,16,80,"Sione Takitaki","Browns","LB","Brigham Young",2019
+"1862",3,17,81,"Will Harris","Lions","DB","Boston College",2019
+"1863",3,18,82,"Nate Davis","Titans"," G","North Carolina-Charlotte",2019
+"1864",3,19,83,"Justin Layne","Steelers","DB","Michigan State",2019
+"1865",3,20,84,"Khalen Saunders","Chiefs","DT","Western Illinois",2019
+"1866",3,21,85,"Jaylon Ferguson","Ravens","DE","Louisiana Tech",2019
+"1867",3,22,86,"Kahale Warring","Texans","TE","San Diego State",2019
+"1868",3,23,87,"Damien Harris","Patriots","RB","Alabama",2019
+"1869",3,24,88,"Cody Barton","Seahawks","LB","Utah",2019
+"1870",3,25,89,"Bobby Okereke","Colts","LB","Stanford",2019
+"1871",3,26,90,"Connor McGovern","Cowboys"," G","Penn State",2019
+"1872",3,27,91,"Trey Pipkins","Chargers"," T","Sioux Falls",2019
+"1873",3,28,92,"Chuma Edoga","Jets"," T","USC",2019
+"1874",3,29,93,"Miles Boykin","Ravens","WR","Notre Dame",2019
+"1875",3,30,94,"Jamel Dean","Buccaneers","DB","Auburn",2019
+"1876",3,31,95,"Oshane Ximines","Giants","LB","Dominion",2019
+"1877",3,32,96,"Dawson Knox","Bills","TE","Mississippi",2019
+"1878",3,33,97,"Bobby Evans","Rams"," T","Oklahoma",2019
+"1879",3,34,98,"Quincy Williams","Jaguars","LB","Murray State",2019
+"1880",3,35,99,"Mike Edwards","Buccaneers","DB","Kentucky",2019
+"1881",3,36,100,"Will Grier","Panthers","QB","West Virginia",2019
+"1882",3,37,101,"Yodny Cajuste","Patriots"," T","West Virginia",2019
+"1883",3,38,102,"Alexander Mattison","Vikings","RB","Boise State",2019
+"1884",4,1,103,"Hakeem Butler","Cardinals","WR","Iowa State",2019
+"1885",4,2,104,"Ryan Finley","Bengals","QB","North Carolina State",2019
+"1886",4,3,105,"Chauncey Gardner-Johnson","Saints","DB","Florida",2019
+"1887",4,4,106,"Maxx Crosby","Raiders","DE","Eastern Michigan",2019
+"1888",4,5,107,"Anthony Nelson","Buccaneers","DE","Iowa",2019
+"1889",4,6,108,"Julian Love","Giants","DB","Notre Dame",2019
+"1890",4,7,109,"Khari Willis","Colts","DB","Michigan State",2019
+"1891",4,8,110,"Mitch Wishnowsky","49ers"," P","Utah",2019
+"1892",4,9,111,"Kendall Sheffield","Falcons","DB","Ohio State",2019
+"1893",4,10,112,"Bryce Love","Redskins","RB","Stanford",2019
+"1894",4,11,113,"Justice Hill","Ravens","RB","Oklahoma State",2019
+"1895",4,12,114,"Dru Samia","Vikings"," G","Oklahoma",2019
+"1896",4,13,115,"Christian Miller","Panthers","LB","Alabama",2019
+"1897",4,14,116,"Amani Hooker","Titans","DB","Iowa",2019
+"1898",4,15,117,"Austin Bryant","Lions","DE","Clemson",2019
+"1899",4,16,118,"Hjalte Froholdt","Patriots"," G","Arkansas",2019
+"1900",4,17,119,"Sheldrick Redwine","Browns","DB","Miami (FL)",2019
+"1901",4,18,120,"Gary Jennings Jr.","Seahawks","WR","West Virginia",2019
+"1902",4,19,121,"Trevon Wesco","Jets","TE","West Virginia",2019
+"1903",4,20,122,"Benny Snell","Steelers","RB","Kentucky",2019
+"1904",4,21,123,"Ben Powers","Ravens"," G","Oklahoma",2019
+"1905",4,22,124,"Phil Haynes","Seahawks"," G","Wake Forest",2019
+"1906",4,23,125,"Renell Wren","Bengals","DT","Arizona State",2019
+"1907",4,24,126,"Riley Ridley","Bears","WR","Georgia",2019
+"1908",4,25,127,"Iman Marshall","Ravens","DB","USC",2019
+"1909",4,26,128,"Tony Pollard","Cowboys","RB","Memphis",2019
+"1910",4,27,129,"Isaiah Johnson","Raiders","DB","Houston",2019
+"1911",4,28,130,"Drue Tranquill","Chargers","LB","Notre Dame",2019
+"1912",4,29,131,"Wes Martin","Redskins"," G","Indiana",2019
+"1913",4,30,132,"Ugochukwu Amadi","Seahawks","DB","Oregon",2019
+"1914",4,31,133,"Jarrett Stidham","Patriots","QB","Auburn",2019
+"1915",4,32,134,"Greg Gaines","Rams","DT","Washington",2019
+"1916",4,33,135,"John Cominsky","Falcons","DE","Charleston",2019
+"1917",4,34,136,"Michael Jordan","Bengals"," C","Ohio State",2019
+"1918",4,35,137,"Foster Moreau","Raiders","TE","Louisiana State",2019
+"1919",4,36,138,"Shareef Miller","Eagles","DE","Penn State",2019
+"1920",5,1,139,"Deionte Thompson","Cardinals","DB","Alabama",2019
+"1921",5,2,140,"Ryquell Armstead","Jaguars","RB","Temple",2019
+"1922",5,3,141,"Zach Gentry","Steelers","TE","Michigan",2019
+"1923",5,4,142,"Ben Burr-Kirven","Seahawks","LB","Washington",2019
+"1924",5,5,143,"Ryan Connelly","Giants","LB","Wisconsin",2019
+"1925",5,6,144,"Marvell Tell III","Colts","DB","USC",2019
+"1926",5,7,145,"Matt Gay","Buccaneers"," K","Utah",2019
+"1927",5,8,146,"Amani Oruwariye","Lions","DB","Penn State",2019
+"1928",5,9,147,"Vosean Joseph","Bills","LB","Florida",2019
+"1929",5,10,148,"Dre Greenlaw","49ers","LB","Arkansas",2019
+"1930",5,11,149,"Hunter Renfrow","Raiders","WR","Clemson",2019
+"1931",5,12,150,"Kingsley Keke","Packers","DT","Texas A&M",2019
+"1932",5,13,151,"Andrew Van Ginkel","Dolphins","LB","Wisconsin",2019
+"1933",5,14,152,"Qadree Ollison","Falcons","RB","Pittsburgh",2019
+"1934",5,15,153,"Ross Pierschbacher","Redskins"," C","Alabama",2019
+"1935",5,16,154,"Jordan Scarlett","Panthers","RB","Florida",2019
+"1936",5,17,155,"Mack Wilson","Browns","LB","Alabama",2019
+"1937",5,18,156,"Justin Hollins","Broncos","LB","Oregon",2019
+"1938",5,19,157,"Blake Cashman","Jets","LB","Minnesota",2019
+"1939",5,20,158,"Michael Jackson","Cowboys","DB","Miami (FL)",2019
+"1940",5,21,159,"Byron Cowart","Patriots","DT","Maryland",2019
+"1941",5,22,160,"Daylon Mack","Ravens","DT","Texas A&M",2019
+"1942",5,23,161,"Charles Omenihu","Texans","DE","Texas",2019
+"1943",5,24,162,"Cameron Smith","Vikings","LB","USC",2019
+"1944",5,25,163,"Jake Bailey","Patriots"," P","Stanford",2019
+"1945",5,26,164,"EJ Speed","Colts","WR","Tarleton State",2019
+"1946",5,27,165,"Joe Jackson","Cowboys","DE","Miami (FL)",2019
+"1947",5,28,166,"Easton Stick","Chargers","QB","North Dakota State",2019
+"1948",5,29,167,"Clayton Thorson","Eagles","QB","Northwestern",2019
+"1949",5,30,168,"D'Andre Walker","Titans","LB","Georgia",2019
+"1950",5,31,169,"David Edwards","Rams"," T","Wisconsin",2019
+"1951",5,32,170,"Austin Seibert","Browns"," K","Oklahoma",2019
+"1952",5,33,171,"Darius Slayton","Giants","WR","Auburn",2019
+"1953",5,34,172,"Jordan Miller","Falcons","DB","Washington",2019
+"1954",5,35,173,"Cole Holcomb","Redskins","LB","North Carolina",2019
+"1955",6,1,174,"KeeSean Johnson","Cardinals","WR","Fresno State",2019
+"1956",6,2,175,"Sutton Smith","Steelers","LB","Northern Illinois",2019
+"1957",6,3,176,"Kaden Smith","49ers","TE","Stanford",2019
+"1958",6,4,177,"Saquan Hampton","Saints","DB","Rutgers",2019
+"1959",6,5,178,"Gardner Minshew II","Jaguars","QB","Washington State",2019
+"1960",6,6,179,"Lamont Gaillard","Cardinals"," C","Georgia",2019
+"1961",6,7,180,"Corey Ballentine","Giants","DB","Washburn",2019
+"1962",6,8,181,"Jaquan Johnson","Bills","DB","Miami (FL)",2019
+"1963",6,9,182,"Trayveon Williams","Bengals","RB","Texas A&M",2019
+"1964",6,10,183,"Justin Skule","49ers"," T","Vanderbilt",2019
+"1965",6,11,184,"Travis Fulgham","Lions","WR","Dominion",2019
+"1966",6,12,185,"Ka'dar Hollman","Packers","DB","Toledo",2019
+"1967",6,13,186,"Ty Johnson","Lions","RB","Maryland",2019
+"1968",6,14,187,"Juan Winfree","Broncos","WR","Colorado",2019
+"1969",6,15,188,"David Long Jr.","Titans","LB","West Virginia",2019
+"1970",6,16,189,"Drew Forbes","Browns"," T","Southeast Missouri State",2019
+"1971",6,17,190,"Armon Watts","Vikings","DT","Arkansas",2019
+"1972",6,18,191,"Marcus Epps","Vikings","DB","Wyoming",2019
+"1973",6,19,192,"Isaiah Buggs","Steelers","DT","Alabama",2019
+"1974",6,20,193,"Olisaemeka Udoh","Vikings"," T","Elon",2019
+"1975",6,21,194,"Dexter Williams","Packers","RB","Notre Dame",2019
+"1976",6,22,195,"Xavier Crawford","Texans","DB","Central Michigan",2019
+"1977",6,23,196,"Blessuan Austin","Jets","DB","Rutgers",2019
+"1978",6,24,197,"Trace McSorley","Ravens","QB","Penn State",2019
+"1979",6,25,198,"Tim Harris","49ers","DB","Virginia",2019
+"1980",6,26,199,"Gerri Green","Colts","LB","Mississippi State",2019
+"1981",6,27,200,"Emeke Egbule","Chargers","LB","Houston",2019
+"1982",6,28,201,"Rashad Fenton","Chiefs","DB","South Carolina",2019
+"1983",6,29,202,"Isaiah Prince","Dolphins"," T","Ohio State",2019
+"1984",6,30,203,"Marcus Green","Falcons","WR","Louisiana-Monroe",2019
+"1985",6,31,204,"Travis Homer","Seahawks","RB","Miami (FL)",2019
+"1986",6,32,205,"Duke Shelley","Bears","DB","Kansas State",2019
+"1987",6,33,206,"Kelvin Harmon","Redskins","WR","North Carolina State",2019
+"1988",6,34,207,"Ulysees Gilbert III","Steelers","LB","Akron",2019
+"1989",6,35,208,"Scott Miller","Buccaneers","WR","Bowling Green",2019
+"1990",6,36,209,"Demarcus Christmas","Seahawks","DT","Florida State",2019
+"1991",6,37,210,"Deshaun Davis","Bengals","LB","Auburn",2019
+"1992",6,38,211,"Rodney Anderson","Bengals","RB","Oklahoma",2019
+"1993",6,39,212,"Dennis Daley","Panthers"," T","South Carolina",2019
+"1994",6,40,213,"Donovan Wilson","Cowboys","DB","Texas A&M",2019
+"1995",6,41,214,"Darwin Thompson","Chiefs","RB","Utah State",2019
+"1996",7,1,215,"Terry Beckner, Jr.","Buccaneers","DT","Missouri",2019
+"1997",7,2,216,"Nick Allegretti","Chiefs"," C","Illinois",2019
+"1998",7,3,217,"Kris Boyd","Vikings","DB","Texas",2019
+"1999",7,4,218,"Mike Weber","Cowboys","RB","Ohio State",2019
+"2000",7,5,219,"Derwin Gray","Steelers"," G","Maryland",2019
+"2001",7,6,220,"Cullen Gillaspia","Texans","RB","Texas A&M",2019
+"2002",7,7,221,"Donnie Lewis Jr.","Browns","DB","Tulane",2019
+"2003",7,8,222,"Kerrith Whyte, Jr.","Bears","RB","Florida Atlantic",2019
+"2004",7,9,223,"Jordan Brown","Bengals","DB","South Dakota State",2019
+"2005",7,10,224,"Isaac Nauta","Lions","TE","Georgia",2019
+"2006",7,11,225,"Darryl Johnson, Jr.","Bills","DE","North Carolina A&T",2019
+"2007",7,12,226,"Ty Summers","Packers","LB","Texas Christian",2019
+"2008",7,13,227,"Jimmy Moreland","Redskins","DB","James Madison",2019
+"2009",7,14,228,"Tommy Sweeney","Bills","TE","Boston College",2019
+"2010",7,15,229,"PJ Johnson","Lions","DT","Arizona",2019
+"2011",7,16,230,"Quinton Bell","Raiders","DE","Prairie View A&M",2019
+"2012",7,17,231,"Alize Mack","Saints","TE","Notre Dame",2019
+"2013",7,18,232,"George Asafo-Adjei","Giants"," T","Kentucky",2019
+"2014",7,19,233,"Chandler Cox","Dolphins","RB","Auburn",2019
+"2015",7,20,234,"Myles Gaskin","Dolphins","RB","Washington",2019
+"2016",7,21,235,"Dontavius Russell","Jaguars","DT","Auburn",2019
+"2017",7,22,236,"John Ursua","Seahawks","WR","Hawaii",2019
+"2018",7,23,237,"Terry Godwin","Panthers","WR","Georgia",2019
+"2019",7,24,238,"Stephen Denmark","Bears","DB","Valdosta State",2019
+"2020",7,25,239,"Dillon Mitchell","Vikings","WR","Oregon",2019
+"2021",7,26,240,"Jackson Barton","Colts"," T","Utah",2019
+"2022",7,27,241,"Jalen Jelks","Cowboys","DE","Oregon",2019
+"2023",7,28,242,"Cortez Broughton","Chargers","DT","Cincinnati",2019
+"2024",7,29,243,"Nick Scott","Rams","DB","Penn State",2019
+"2025",7,30,244,"Kaden Elliss","Saints","LB","Idaho",2019
+"2026",7,31,245,"Chris Slayton","Giants","DT","Syracuse",2019
+"2027",7,32,246,"Javon Patterson","Colts"," G","Mississippi",2019
+"2028",7,33,247,"Olabisi Johnson","Vikings","WR","Colorado State",2019
+"2029",7,34,248,"Joshua Miles","Cardinals"," G","Morgan State",2019
+"2030",7,35,249,"Michael Dogbe","Cardinals","DT","Temple",2019
+"2031",7,36,250,"Austin Cutting","Vikings"," C","Air Force",2019
+"2032",7,37,251,"Dakota Allen","Rams","LB","Texas Tech",2019
+"2033",7,38,252,"Ken Webster","Patriots","DB","Mississippi",2019
+"2034",7,39,253,"Jordan Brailford","Redskins","LB","Oklahoma State",2019
+"2035",7,40,254,"Caleb Wilson","Cardinals","TE","UCLA",2019
